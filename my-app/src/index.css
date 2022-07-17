@@ -28,11 +28,19 @@ ul {
   padding: 0px;
 }
 .MainContainer {
+  max-width: 100%;
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
   justify-content: center;
   align-items: center;
   background-color: #f2f2f2;
+  padding: 0px 20px;
+  gap: 2px;
+}
+@media (max-width: 992px) {
+  .MainContainer {
+    padding: 0px 10px;
+  }
 }
 .NavContainer {
   background-color: #191919;
@@ -318,4 +326,14 @@ svg {
 .trailerVideo {
   width: 70%;
   max-width: 500px;
+}
+.premiumOrFree__Homepage {
+  position: absolute;
+  font-size: 0.7rem;
+  top: 10px;
+  left: 50%;
+  transform: translateX(-50%);
+  padding: 10px;
+  background-color: gold;
+  border-radius: 0px 0px 15px 15px;
 }

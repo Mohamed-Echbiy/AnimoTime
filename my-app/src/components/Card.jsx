@@ -1,6 +1,3 @@
-import { display } from "@mui/system";
-import React, { useEffect, useRef, useState } from "react";
-import { Link } from "react-router-dom";
 import styled from "styled-components";
 import Skeleton from "react-loading-skeleton";
 import "react-loading-skeleton/dist/skeleton.css";
@@ -51,13 +48,19 @@ export default function Card({ Anime }) {
 
 // styling
 
+const randomRotate = ["rotate(10deg)", "rotate(-10deg)"];
+function random_Rotate(Rotate) {
+  return Rotate[Math.floor(Math.random() * randomRotate.length)];
+}
+let item = random_Rotate(randomRotate);
+
 const CardComponent = styled.div`
   margin: 10px auto;
   padding: 20px;
   border-radius: 25px;
   width: 300px;
   height: 500px;
-  box-shadow: 0px 8px 10px #313638ba;
+  box-shadow: 0px 14px 11px #3136385c;
 `;
 const ImageContainer = styled.div`
   position: relative;
@@ -71,10 +74,10 @@ const ImageContainer = styled.div`
     margin: auto;
     border-radius: 25px;
     cursor: pointer;
-    transition: transform 0.5s ease;
+    transition: transform 0.7s ease;
   }
   img:hover {
-    transform: scale(1.1);
+    transform: scale(1.4) ${item};
   }
 `;
 const AnimeInfo = styled.div`

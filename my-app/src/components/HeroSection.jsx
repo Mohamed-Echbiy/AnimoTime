@@ -28,7 +28,6 @@ function random_item(bgImages) {
 }
 
 let bg = random_item(bgImages);
-console.log(bg);
 
 const BgImage = styled.div`
   height: 100vh;

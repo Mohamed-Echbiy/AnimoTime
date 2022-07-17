@@ -75,56 +75,6 @@ export default function Header() {
                 <p onClick={toggelNavBar}>Top Popular Animes</p>
               </li>
             </Link>
-            {/* <Link to="/Action">
-              <li>
-                <p>Action </p>
-              </li>
-            </Link>
-            <Link to="/Adventure">
-              <li>
-                <p>Adventure</p>
-              </li>
-            </Link>
-            <Link to="/Fantasy">
-              <li>
-                <p>Fantasy</p>
-              </li>
-            </Link>
-            <Link to="/Romance">
-              <li>
-                <p>Romance</p>
-              </li>
-            </Link>
-            <Link to="/Supernatural">
-              <li>
-                <p>Supernatural</p>
-              </li>
-            </Link>
-            <Link to="/Mystery">
-              <li>
-                <p>Mystery</p>
-              </li>
-            </Link>
-            <Link to="/Horror">
-              <li>
-                <p>Horror</p>
-              </li>
-            </Link>
-            <Link to="/Sci-Fi">
-              <li>
-                <p>Sci-Fi</p>
-              </li>
-            </Link>
-            <Link to="/Slice of Life">
-              <li>
-                <p>Slice of Life</p>
-              </li>
-            </Link>
-            <Link to="/Sports">
-              <li>
-                <p>Sports</p>
-              </li>
-            </Link> */}
             <Link to="/Sing In" onClick={toggelNavBar}>
               <li onClick={toggelNavBar}>
                 <p onClick={toggelNavBar}>Sing In</p>

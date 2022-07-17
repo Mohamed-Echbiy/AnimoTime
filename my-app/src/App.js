@@ -7,6 +7,9 @@ import Header from "./components/Header";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import Quate from "./components/Quate";
 import HomePage from "./components/HomePage/HomePage";
+import RecPromo from "./components/HomePage/RecPromo";
+// import OurRecomndation from "./components/HomePage/OurRecomndation";
+
 export default function App() {
   const [airingAnimeData, setAiringAnimeData] = React.useState([]);
   React.useEffect(() => {
@@ -166,15 +169,48 @@ export default function App() {
 
   // fetching recent eposides data
 
+  //
   const [recentEp, setRecentEp] = useState([]);
   useEffect(() => {
     fetch(`https://api.jikan.moe/v4/watch/episodes`)
       .then((res) => res.json())
       .then((data) => setRecentEp(data.data));
   }, []);
-  const recentepoiseds = recentEp.slice(0, 6).map((Ep_R) => {
-    return <HomePage Ep_R={Ep_R} />;
+  const recentepoiseds = recentEp.slice(0, 5).map((Ep_R) => {
+    return <HomePage key={Ep_R.entry.mal_id} Ep_R={Ep_R} />;
   });
+  const [isRecentVis, setRecentVis] = useState(false);
+  function ToggelAllRecent() {
+    setRecentVis((pre) => !pre);
+  }
+  const Allrecentepoiseds = recentEp.slice(5).map((Ep_R) => {
+    return <HomePage key={Ep_R.entry.mal_id} Ep_R={Ep_R} />;
+  });
+  const [populareEP, setPopularEp] = useState([]);
+  useEffect(() => {
+    fetch(`https://api.jikan.moe/v4/watch/episodes/popular`)
+      .then((res) => res.json())
+      .then((data) => setPopularEp(data.data));
+  }, []);
+  const PopulareEp = populareEP.slice(0, 20).map((Ep_R) => {
+    if (Ep_R.region_locked === true) {
+      return null;
+    } else {
+      return <HomePage key={Ep_R.entry.mal_id} Ep_R={Ep_R} />;
+    }
+  });
+
+  const [recPromo, setRecPromo] = useState([]);
+
+  useEffect(() => {
+    fetch(`https://api.jikan.moe/v4/watch/promos`)
+      .then((res) => res.json())
+      .then((data) => setRecPromo(data.data));
+  }, []);
+  const promo = recPromo.slice(0, 6).map((R_Promo, index) => {
+    return <RecPromo key={index} R_Promo={R_Promo} />;
+  });
+
   return (
     <Router>
       <>
@@ -189,15 +225,6 @@ export default function App() {
           />
           <button
             onClick={() => {
-              if (window.innerHeight > 600 && window.innerHeight <= 740) {
-                {
-                  window.scrollTo(0, window.innerHeight + 450);
-                }
-              } else if (window.innerHeight >= 800) {
-                window.scrollTo(0, window.innerHeight + 380);
-              } else {
-                window.scrollTo(0, window.innerHeight + 380);
-              }
               if (
                 (anime === undefined) |
                 (search === "") |
@@ -214,10 +241,28 @@ export default function App() {
         <div className="MainContainer">
           <Switch>
             <Route exact path="/">
+              <H3>Recent Episodes</H3>
               {recentepoiseds}
+              <ViewAll>
+                {" "}
+                <p onClick={ToggelAllRecent}>
+                  {" "}
+                  {isRecentVis ? "Hide" : "Show more"}{" "}
+                </p>
+              </ViewAll>
+              {isRecentVis ? Allrecentepoiseds : null}
+              {/* <H3>Our Reacomendation</H3>
+              <div className="OurRecomndation">{Recomndation}</div> */}
+              <H3>Popular Episodes</H3>
+              {PopulareEp}
+              <br />
+              <br />
+              <H4>Recent Promos</H4>
+              <Div>{promo}</Div>
             </Route>
             <Route exact path="/Airing">
               <H3>Airing Anime</H3>
+
               {AnimeDataairing}
             </Route>
             <Route exact path="/Search">
@@ -258,4 +303,45 @@ const H3 = styled.h3`
   text-shadow: 0px 3px 0px #b2a98f, 0px 14px 10px rgba(0, 0, 0, 0.15),
     0px 24px 2px rgba(0, 0, 0, 0.1), 0px 34px 30px rgba(0, 0, 0, 0.1);
   padding-left: 20px;
+`;
+const H4 = styled.h3`
+  margin-top: 30px;
+  margin-bottom: 30px;
+  grid-column: 1 / -1;
+  text-transform: uppercase;
+  text-shadow: 0px 3px 0px #b2a98f, 0px 14px 10px rgba(0, 0, 0, 0.15),
+    0px 24px 2px rgba(0, 0, 0, 0.1), 0px 34px 30px rgba(0, 0, 0, 0.1);
+  padding-left: 20px;
+`;
+const ViewAll = styled.div`
+  cursor: pointer;
+  jsutify-self: flex-end;
+  grid-column: 1 / -1;
+  display: flex;
+  justify-content: flex-end;
+  padding: 10px;
+  margin-bottom: 10px;
+  p {
+    cursor: pointer;
+    font-weight: 700;
+    padding: 10px 30px;
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+    :hover {
+      background-color: #000000b3;
+    }
+  }
+`;
+const Div = styled.div`
+  grid-column: 1 / -1;
+  padding: 10px;
+  display: grid;
+  grid-template-columns: repeat(3, minmax(100px, 1fr));
+  @media (max-width: 500px) {
+    grid-template-columns: repeat(2, minmax(100px, 1fr));
+  }
+  @media (max-width: 400px) {
+    grid-template-columns: repeat(1, minmax(100px, 1fr));
+  }
 `;
