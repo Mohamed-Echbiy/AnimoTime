@@ -21,7 +21,7 @@ html {
 body {
   width: 100%;
   font-family: "Gotham", sans-serif;
-  background-color: #f2f2f2;
+  background-color: #2a2c31;
   position: relative;
 }
 ul {
@@ -33,7 +33,7 @@ ul {
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
   justify-content: center;
   align-items: center;
-  background-color: #f2f2f2;
+  background-color: #2a2c31;
   padding: 0px 20px;
   gap: 2px;
 }
@@ -43,7 +43,7 @@ ul {
   }
 }
 .NavContainer {
-  background-color: #191919;
+  background-color: #2a2c31b7;
   height: 70px;
   display: flex;
   align-items: center;
@@ -57,7 +57,7 @@ ul {
 }
 .NavContainer h2 {
   font-size: 1.3rem;
-  color: purple;
+  color: rgb(109, 4, 109);
   letter-spacing: 2px;
 }
 .NavContainer .image-container {
@@ -74,8 +74,8 @@ svg {
     brightness(103%) contrast(103%);
 }
 svg:hover {
-  filter: invert(12%) sepia(57%) saturate(6293%) hue-rotate(355deg)
-    brightness(79%) contrast(114%);
+  filter: invert(90%) sepia(24%) saturate(7462%) hue-rotate(10deg)
+    brightness(106%) contrast(94%);
 }
 .CloseIcon {
   width: 100%;
@@ -171,9 +171,12 @@ h5 {
 
   /* text-align: center; */
 }
+.sarchBar button:hover {
+  background-color: #000000b3;
+}
 .sarchBar button {
   cursor: pointer;
-  background-color: #191919;
+  background-color: #2a2c31;
   color: whitesmoke;
 }
 .sarchBar input {
@@ -330,10 +333,17 @@ svg {
 .premiumOrFree__Homepage {
   position: absolute;
   font-size: 0.7rem;
+  font-weight: 600;
+  color: #000000b3;
   top: 10px;
   left: 50%;
   transform: translateX(-50%);
   padding: 10px;
   background-color: gold;
   border-radius: 0px 0px 15px 15px;
+}
+h1,
+h2,
+h3 {
+  color: gold;
 }

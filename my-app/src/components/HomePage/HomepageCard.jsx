@@ -6,7 +6,7 @@ export default function HomepageCard({ Ep_R }) {
   }
   return (
     <>
-      <CardComponent className="CardComponent">
+      <CardComponent className="CardComponent" onClick={LinkTo}>
         <ImageContainer className="ImageContainer_CardCompo">
           <Overlay onClick={LinkTo}></Overlay>
           <img
@@ -45,12 +45,12 @@ const CardComponent = styled.div`
   border-radius: 15px;
   height: 400px;
   width: 271px;
-  box-shadow: 0px 14px 11px #3136385c;
   cursor: pointer;
   position: relative;
   overflow: hidden;
   transition: transform 0.7s ease;
-
+  background-color: #1e1f20;
+  box-shadow: 0px 9px 4px #0e0e0e;
   :hover img {
     transform: scale(1.2) ${item};
   }
@@ -102,7 +102,7 @@ const AnimeInfo = styled.div`
     padding: 0px 10px;
     width: 271px;
     div {
-      color: white;
+      color: gold;
       margin-bottom: 20px;
     }
     span {
@@ -116,8 +116,8 @@ const AnimeInfo = styled.div`
     position: absolute;
     padding: 10px;
     border-radius: 15px 0px 25px 0px;
-    top: -289px;
-    background-color: black;
+    top: -292px;
+    background-color: #000000c7;
     color: white;
     span {
       position: absolute;

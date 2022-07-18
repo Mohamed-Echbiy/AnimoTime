@@ -10,18 +10,27 @@ export default function RecPromo({ R_Promo }) {
         title={R_Promo.title}
         noCookie={true}
       />
-      <P>{R_Promo.entry.title}</P>
+      <P>
+        <span>Title</span> : {R_Promo.entry.title}
+      </P>
     </Div>
   );
 }
 
 const Div = styled.div`
-  padding: 0px 10px;
+  margin: 10px 5px;
+  padding: 5px;
   padding-bottom: 10px;
   font-size: 20px;
+  border: 5px crimson solid;
+  border-radius: 10px 20px 0px 5px;
 `;
 const P = styled.div`
-  font-size: 0.5em;
+  font-size: 0.7em;
   font-weight: 600;
-  padding: 5px;
+  color: crimson;
+  padding: 10px;
+  span {
+    color: gold;
+  }
 `;

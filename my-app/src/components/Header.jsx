@@ -1,6 +1,5 @@
 import React from "react";
 import styled from "styled-components";
-import Image from "../components/onePiece.jpg";
 import HeroSection from "./HeroSection";
 import { FaBars } from "react-icons/fa";
 import { Link } from "react-router-dom";
@@ -20,18 +19,17 @@ export default function Header() {
   }
   function toggelNavBar() {
     setnavBarState((prevState) => !prevState);
-    if (navBarState) {
-      goTospecificwidth();
-    }
   }
   return (
     <div className="Container">
       <div className="NavContainer">
         <Logo>
           <Link to="/" className="image-container">
-            <img src={Image} alt="Logo" />
+            <img
+              src="https://i.pinimg.com/originals/67/2d/7b/672d7bf122e5af53a37819ef4c5188ef.jpg"
+              alt="Logo"
+            />
           </Link>
-          <h2>AnimoCast</h2>
         </Logo>
         <Search>
           <Link to="/SignUp">
@@ -43,41 +41,46 @@ export default function Header() {
       <HeroSection />
       <Navbar State={navBarState}>
         <div className="Category">
-          <h2>Category</h2>
+          <h2>AnimoTime</h2>
           <ul>
-            <Link to="/" onClick={toggelNavBar}>
-              <li onClick={toggelNavBar}>
-                <p onClick={toggelNavBar}>Home</p>
+            <Link to="/" onClick={goTospecificwidth}>
+              <li onClick={goTospecificwidth}>
+                <p onClick={goTospecificwidth}>Home</p>
               </li>
             </Link>
-            <Link to="/Airing" onClick={toggelNavBar}>
-              <li onClick={toggelNavBar}>
-                <p onClick={toggelNavBar}>Airing</p>
+            <Link to="/Airing" onClick={goTospecificwidth}>
+              <li onClick={goTospecificwidth}>
+                <p onClick={goTospecificwidth}>Airing</p>
               </li>
             </Link>
-            <Link to="/Top Tv series" onClick={toggelNavBar}>
-              <li onClick={toggelNavBar}>
-                <p onClick={toggelNavBar}>Top Series</p>
+            <Link to="/Top Tv series" onClick={goTospecificwidth}>
+              <li onClick={goTospecificwidth}>
+                <p onClick={goTospecificwidth}>Series</p>
               </li>
             </Link>
-            <Link to="/Top Movies" onClick={toggelNavBar}>
-              <li onClick={toggelNavBar}>
-                <p onClick={toggelNavBar}>Top Movies</p>
+            <Link to="/Top Movies" onClick={goTospecificwidth}>
+              <li onClick={goTospecificwidth}>
+                <p onClick={goTospecificwidth}>Movies</p>
               </li>
             </Link>
-            <Link to="/Upcoming" onClick={toggelNavBar}>
-              <li onClick={toggelNavBar}>
-                <p onClick={toggelNavBar}>Top Upcoming Animes</p>
+            <Link to="/Upcoming" onClick={goTospecificwidth}>
+              <li onClick={goTospecificwidth}>
+                <p onClick={goTospecificwidth}>Upcoming Animes</p>
               </li>
             </Link>
-            <Link to="/Most Popular" onClick={toggelNavBar}>
-              <li onClick={toggelNavBar}>
-                <p onClick={toggelNavBar}>Top Popular Animes</p>
+            <Link to="/Most Popular" onClick={goTospecificwidth}>
+              <li onClick={goTospecificwidth}>
+                <p onClick={goTospecificwidth}>Popular Animes</p>
               </li>
             </Link>
-            <Link to="/Sing In" onClick={toggelNavBar}>
-              <li onClick={toggelNavBar}>
-                <p onClick={toggelNavBar}>Sing In</p>
+            <Link to="/Reviews" onClick={goTospecificwidth}>
+              <li onClick={goTospecificwidth}>
+                <p onClick={goTospecificwidth}>Reviews</p>
+              </li>
+            </Link>
+            <Link to="/Sing In" onClick={goTospecificwidth}>
+              <li onClick={goTospecificwidth}>
+                <p onClick={goTospecificwidth}>Sing In</p>
               </li>
             </Link>
           </ul>
@@ -95,6 +98,7 @@ const Logo = styled.div`
   align-items: center;
   img {
     max-height: 100%;
+    border-radius: 50%;
   }
 `;
 const Search = styled.div`
@@ -102,11 +106,10 @@ const Search = styled.div`
   justify-content: space-between;
   gap: 10px;
   align-items: center;
-  input {
-    max-width: 250px;
-    padding: 15px;
-    border-radius: 25px;
-    margin: 0px 15px;
+  h4 {
+    :hover {
+      color: gold;
+    }
   }
   @media (max-width: 300px) {
     input {
@@ -117,7 +120,6 @@ const Search = styled.div`
 const Navbar = styled.div`
   position: fixed;
   top: 70px;
-  overflow: scroll;
   right: ${(props) => {
     if (props.State === true) {
       return `0%`;
@@ -129,7 +131,7 @@ const Navbar = styled.div`
   z-index: 300;
   width: 300px;
   min-height: 100vh;
-  background-color: #fff;
+  background-color: #000000bf;
   padding: 30px 5px;
   a {
     color: crimson;

@@ -24,22 +24,46 @@ export default function Card({ Anime }) {
         </ImageContainer>
         <AnimeInfo>
           <h3>
-            Title: <span>{Anime.title}</span>
+            Title : <span>{Anime.title}</span>
           </h3>
-          <p>Episodes: {Anime.episodes}</p>
+          <p>
+            {" "}
+            <span>Episodes</span> : {Anime.episodes ? Anime.episodes : "???"}
+          </p>
           {Anime.genres && (
             <p>
-              Genres :{" "}
+              <span>Genres</span> :{" "}
               {Anime.genres.map((g) => {
                 return `/${g.name}`;
               })}
             </p>
           )}
-          <p>Type : {Anime.type}</p>
-          <p>Score: {Anime.score} ⭐</p>
-          {Anime.rated && <p>Rated: {Anime.rated}</p>}
-          {Anime.rank && <p>Rank : {Anime.rank}</p>}
-          {Anime.status && <p>Rank : {Anime.status}</p>}
+          <p>
+            {" "}
+            <span>Type</span> : {Anime.type}
+          </p>
+          <p>
+            {" "}
+            <span>Score</span> : {Anime.score} ⭐
+          </p>
+          {Anime.rated && (
+            <p>
+              {" "}
+              <span>Rated</span> : {Anime.rated}
+            </p>
+          )}
+          {Anime.rank && (
+            <p>
+              {" "}
+              <span>Rank</span> : {Anime.rank}
+            </p>
+          )}
+          {Anime.status && (
+            <p>
+              {" "}
+              <span>Rank</span> : {Anime.status}
+            </p>
+          )}
         </AnimeInfo>
       </CardComponent>
     </>
@@ -60,7 +84,8 @@ const CardComponent = styled.div`
   border-radius: 25px;
   width: 300px;
   height: 500px;
-  box-shadow: 0px 14px 11px #3136385c;
+  background-color: #1e1f20;
+  box-shadow: 0px 9px 4px #0e0e0e;
 `;
 const ImageContainer = styled.div`
   position: relative;
@@ -90,11 +115,17 @@ const AnimeInfo = styled.div`
   h3 {
     font-size: 0.9rem;
     font-weight: 500;
+    line-height: 1.4;
     span {
       color: crimson;
     }
   }
   p {
     font-size: 0.8rem;
+    font-weight: 600;
+    color: white;
+    span {
+      color: #b9b9b9;
+    }
   }
 `;

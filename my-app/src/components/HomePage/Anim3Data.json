@@ -1,0 +1,3521 @@
+{
+  "pagination": {
+    "last_visible_page": 987,
+    "has_next_page": true,
+    "current_page": 3,
+    "items": { "count": 25, "total": 24655, "per_page": 25 }
+  },
+  "data": [
+    {
+      "mal_id": 69,
+      "url": "https://myanimelist.net/anime/69/Cluster_Edge",
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1980/103243.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1980/103243t.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1980/103243l.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1980/103243.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1980/103243t.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1980/103243l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "title": "Cluster Edge",
+      "title_english": null,
+      "title_japanese": "CLUSTER EDGE\uff08\u30af\u30e9\u30b9\u30bf\u30fc\u30a8\u30c3\u30b8\uff09",
+      "title_synonyms": [],
+      "type": "TV",
+      "source": "Original",
+      "episodes": 25,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2005-10-05T00:00:00+00:00",
+        "to": "2006-03-29T00:00:00+00:00",
+        "prop": {
+          "from": { "day": 5, "month": 10, "year": 2005 },
+          "to": { "day": 29, "month": 3, "year": 2006 }
+        },
+        "string": "Oct 5, 2005 to Mar 29, 2006"
+      },
+      "duration": "24 min per ep",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 6.33,
+      "scored_by": 2931,
+      "rank": 7408,
+      "popularity": 5595,
+      "members": 10154,
+      "favorites": 12,
+      "synopsis": "Cluster Edge Academy isn't just any school; it's THE school, where the offspring of the elite come together to prepare for their roles running a world where artificial soldiers and religious sects are major factors in the battle for total control. Which may be part of why new transfer student Agate Fluorite doesn't quite seem to fit in. It's not just that Agate's enthusiastic attitude stands out among the somber, brooding balance of the student body. There's something about him that demands notice, even from jaded honors students like Beryl Jasper, and from the moment of arrival he's been at the center of a series of mysteries that not even Agate understands. Because Agate's not just another student, he's part of a something so momentous, and dangerous, that the world that built Cluster Edge may not survive its passing. (Source: Sentai Filmworks)",
+      "background": null,
+      "season": "fall",
+      "year": 2005,
+      "broadcast": {
+        "day": "Wednesdays",
+        "time": "01:00",
+        "timezone": "Asia/Tokyo",
+        "string": "Wednesdays at 01:00 (JST)"
+      },
+      "producers": [
+        {
+          "mal_id": 23,
+          "type": "anime",
+          "name": "Bandai Visual",
+          "url": "https://myanimelist.net/anime/producer/23/Bandai_Visual"
+        },
+        {
+          "mal_id": 2135,
+          "type": "anime",
+          "name": "Imagine",
+          "url": "https://myanimelist.net/anime/producer/2135/Imagine"
+        }
+      ],
+      "licensors": [
+        {
+          "mal_id": 376,
+          "type": "anime",
+          "name": "Sentai Filmworks",
+          "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+      ],
+      "studios": [
+        {
+          "mal_id": 14,
+          "type": "anime",
+          "name": "Sunrise",
+          "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 1,
+          "type": "anime",
+          "name": "Action",
+          "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+          "mal_id": 10,
+          "type": "anime",
+          "name": "Fantasy",
+          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+          "mal_id": 24,
+          "type": "anime",
+          "name": "Sci-Fi",
+          "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 38,
+          "type": "anime",
+          "name": "Military",
+          "url": "https://myanimelist.net/anime/genre/38/Military"
+        }
+      ],
+      "demographics": []
+    },
+    {
+      "mal_id": 71,
+      "url": "https://myanimelist.net/anime/71/Full_Metal_Panic",
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/2/75259.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/2/75259t.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/2/75259l.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/2/75259.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/2/75259t.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/2/75259l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": "wV6l4LmvE0s",
+        "url": "https://www.youtube.com/watch?v=wV6l4LmvE0s",
+        "embed_url": "https://www.youtube.com/embed/wV6l4LmvE0s?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": "https://img.youtube.com/vi/wV6l4LmvE0s/default.jpg",
+          "small_image_url": "https://img.youtube.com/vi/wV6l4LmvE0s/sddefault.jpg",
+          "medium_image_url": "https://img.youtube.com/vi/wV6l4LmvE0s/mqdefault.jpg",
+          "large_image_url": "https://img.youtube.com/vi/wV6l4LmvE0s/hqdefault.jpg",
+          "maximum_image_url": "https://img.youtube.com/vi/wV6l4LmvE0s/maxresdefault.jpg"
+        }
+      },
+      "title": "Full Metal Panic!",
+      "title_english": "Full Metal Panic!",
+      "title_japanese": "\u30d5\u30eb\u30e1\u30bf\u30eb\u30fb\u30d1\u30cb\u30c3\u30af\uff01",
+      "title_synonyms": ["FMP", "Fullmetal Panic!"],
+      "type": "TV",
+      "source": "Light novel",
+      "episodes": 24,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2002-01-08T00:00:00+00:00",
+        "to": "2002-06-18T00:00:00+00:00",
+        "prop": {
+          "from": { "day": 8, "month": 1, "year": 2002 },
+          "to": { "day": 18, "month": 6, "year": 2002 }
+        },
+        "string": "Jan 8, 2002 to Jun 18, 2002"
+      },
+      "duration": "24 min per ep",
+      "rating": "R - 17+ (violence & profanity)",
+      "score": 7.62,
+      "scored_by": 229779,
+      "rank": 1325,
+      "popularity": 397,
+      "members": 460747,
+      "favorites": 4196,
+      "synopsis": "Mithril, a covert military institution using state-of-the-art technology to combat terrorist operations, assigns a specialized team to a sensitive mission. Under the command of superior officer Melissa Mao, sergeants Sousuke Sagara and Kurz Weber must secretly protect Kaname Chidori\u2014a teenage girl who unconsciously holds breakthrough scientific knowledge and is considered a \"Whispered\"\u2014from intelligence agencies and other organizations pursuing her abilities. While Kurz and Melissa are to assist him remotely, Sousuke enrolls at Kaname's high school as one of her classmates to closely monitor her. However, his militaristic upbringing and poor social skills lead to a difficult adjustment to civilian life. Not only does he attract unnecessary attention, but his actions frequently make Kaname suspicious of him. Despite the earnest attempts to fulfill his duty, a terrorist ambush further complicates Sousuke's task. Recognizing the vicious mastermind behind the assault, Sousuke abandons his orders to ensure Kaname's safety. [Written by MAL Rewrite]",
+      "background": "Full Metal Panic! adapts the first three volumes of Shoji Gatoh's light novel series of the same title, as well as content from the first three volumes of the spin-off series Full Metal Panic! Tanpenshuu. Among the differences between the light novels and the anime series, the most notable are episodes 14 to 17, which are anime original stories. The series was initially scheduled to air on WOWOW before 2002, but it was postponed on account of the September 11, 2001 World Trade Center attacks. ADV Films, the licensor for North America, released the anime on the Anime Network on demand between 2003 and 2004. Full Metal Panic! is Gonzo's first anime to receive a dubbed version in Tagalog language. In Japan, the series was made available on 12 DVDs between February 25, 2002 and January 25, 2003. In North America, seven DVDs were released from June 10, 2003 to February 17, 2004. Additionally, two DVD box sets including the complete collection were also published: one on April 19, 2004 and the other on June 3, 2008.",
+      "season": "winter",
+      "year": 2002,
+      "broadcast": {
+        "day": "Tuesdays",
+        "time": "18:30",
+        "timezone": "Asia/Tokyo",
+        "string": "Tuesdays at 18:30 (JST)"
+      },
+      "producers": [
+        {
+          "mal_id": 113,
+          "type": "anime",
+          "name": "Kadokawa Shoten",
+          "url": "https://myanimelist.net/anime/producer/113/Kadokawa_Shoten"
+        },
+        {
+          "mal_id": 460,
+          "type": "anime",
+          "name": "KlockWorx",
+          "url": "https://myanimelist.net/anime/producer/460/KlockWorx"
+        }
+      ],
+      "licensors": [
+        {
+          "mal_id": 97,
+          "type": "anime",
+          "name": "ADV Films",
+          "url": "https://myanimelist.net/anime/producer/97/ADV_Films"
+        },
+        {
+          "mal_id": 102,
+          "type": "anime",
+          "name": "Funimation",
+          "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+      ],
+      "studios": [
+        {
+          "mal_id": 3,
+          "type": "anime",
+          "name": "Gonzo",
+          "url": "https://myanimelist.net/anime/producer/3/Gonzo"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 1,
+          "type": "anime",
+          "name": "Action",
+          "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+          "mal_id": 4,
+          "type": "anime",
+          "name": "Comedy",
+          "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+          "mal_id": 24,
+          "type": "anime",
+          "name": "Sci-Fi",
+          "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 18,
+          "type": "anime",
+          "name": "Mecha",
+          "url": "https://myanimelist.net/anime/genre/18/Mecha"
+        },
+        {
+          "mal_id": 38,
+          "type": "anime",
+          "name": "Military",
+          "url": "https://myanimelist.net/anime/genre/38/Military"
+        }
+      ],
+      "demographics": []
+    },
+    {
+      "mal_id": 72,
+      "url": "https://myanimelist.net/anime/72/Full_Metal_Panic_Fumoffu",
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/4/75260.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/4/75260t.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/4/75260l.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/4/75260.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/4/75260t.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/4/75260l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": "UaZEknOT0HA",
+        "url": "https://www.youtube.com/watch?v=UaZEknOT0HA",
+        "embed_url": "https://www.youtube.com/embed/UaZEknOT0HA?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": "https://img.youtube.com/vi/UaZEknOT0HA/default.jpg",
+          "small_image_url": "https://img.youtube.com/vi/UaZEknOT0HA/sddefault.jpg",
+          "medium_image_url": "https://img.youtube.com/vi/UaZEknOT0HA/mqdefault.jpg",
+          "large_image_url": "https://img.youtube.com/vi/UaZEknOT0HA/hqdefault.jpg",
+          "maximum_image_url": "https://img.youtube.com/vi/UaZEknOT0HA/maxresdefault.jpg"
+        }
+      },
+      "title": "Full Metal Panic? Fumoffu",
+      "title_english": "Full Metal Panic? Fumoffu",
+      "title_japanese": "\u30d5\u30eb\u30e1\u30bf\u30eb\u30fb\u30d1\u30cb\u30c3\u30af? \u3075\u3082\u3063\u3075",
+      "title_synonyms": [
+        "Full Metal Panic Fumoffu",
+        "Fullmetal Panic? Fumoffu"
+      ],
+      "type": "TV",
+      "source": "Light novel",
+      "episodes": 12,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2003-08-26T00:00:00+00:00",
+        "to": "2003-11-18T00:00:00+00:00",
+        "prop": {
+          "from": { "day": 26, "month": 8, "year": 2003 },
+          "to": { "day": 18, "month": 11, "year": 2003 }
+        },
+        "string": "Aug 26, 2003 to Nov 18, 2003"
+      },
+      "duration": "24 min per ep",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 8.04,
+      "scored_by": 167332,
+      "rank": 516,
+      "popularity": 716,
+      "members": 278933,
+      "favorites": 2850,
+      "synopsis": "Sergeant Sousuke Sagara returns to Jindai High School to protect the precious war asset, Kaname Chidori, from any threat. However, his lack of social skills and real-life experience result in comical yet dangerous situations, endangering the peaceful school life Kaname longs for. As Sousuke continues to bring a wide range of weapons to school as a means to solve threats\u2014real or fake\u2014Kaname struggles to fulfill her duty as the student council vice president all while keeping him in check. To ensure a successful mission, Sousuke is occasionally forced to use the costume of a famous amusement park mascot called Bonta-kun. With his technical expertise, he eventually transforms the exuberant uniform into a cutting-edge exoskeleton that has only one dysfunction: the voice translator can only produce the sound \"mofu.\" Full Metal Panic? Fumoffu depicts the adventures of Kaname and Sousuke as they try to live their normal school lives despite the chaos they inadvertently cause. [Written by MAL Rewrite]",
+      "background": "Full Metal Panic? Fumoffu adapts content from novels 1 to 3, 5 and 6 of Shoji Gatoh's side story light novel series Full Metal Panic! Tanpenshuu. Episode 9 adapts content from the other side story series Full Metal Panic! Side Arms. While listed as 12 episodes, Full Metal Panic? Fumoffu's original Japanese broadcast cut episode 2 due to current events regarding a series of kidnappings in Japan at that time. However, this episode is included in the DVD version.",
+      "season": "summer",
+      "year": 2003,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": "Unknown"
+      },
+      "producers": [
+        {
+          "mal_id": 103,
+          "type": "anime",
+          "name": "Tatsunoko Production",
+          "url": "https://myanimelist.net/anime/producer/103/Tatsunoko_Production"
+        },
+        {
+          "mal_id": 113,
+          "type": "anime",
+          "name": "Kadokawa Shoten",
+          "url": "https://myanimelist.net/anime/producer/113/Kadokawa_Shoten"
+        },
+        {
+          "mal_id": 169,
+          "type": "anime",
+          "name": "Fuji TV",
+          "url": "https://myanimelist.net/anime/producer/169/Fuji_TV"
+        },
+        {
+          "mal_id": 170,
+          "type": "anime",
+          "name": "Imagica",
+          "url": "https://myanimelist.net/anime/producer/170/Imagica"
+        },
+        {
+          "mal_id": 211,
+          "type": "anime",
+          "name": "Rakuonsha",
+          "url": "https://myanimelist.net/anime/producer/211/Rakuonsha"
+        },
+        {
+          "mal_id": 352,
+          "type": "anime",
+          "name": "Kadokawa Pictures Japan",
+          "url": "https://myanimelist.net/anime/producer/352/Kadokawa_Pictures_Japan"
+        },
+        {
+          "mal_id": 460,
+          "type": "anime",
+          "name": "KlockWorx",
+          "url": "https://myanimelist.net/anime/producer/460/KlockWorx"
+        },
+        {
+          "mal_id": 787,
+          "type": "anime",
+          "name": "Happinet Pictures",
+          "url": "https://myanimelist.net/anime/producer/787/Happinet_Pictures"
+        },
+        {
+          "mal_id": 929,
+          "type": "anime",
+          "name": "Animation Do",
+          "url": "https://myanimelist.net/anime/producer/929/Animation_Do"
+        }
+      ],
+      "licensors": [
+        {
+          "mal_id": 97,
+          "type": "anime",
+          "name": "ADV Films",
+          "url": "https://myanimelist.net/anime/producer/97/ADV_Films"
+        },
+        {
+          "mal_id": 102,
+          "type": "anime",
+          "name": "Funimation",
+          "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+      ],
+      "studios": [
+        {
+          "mal_id": 2,
+          "type": "anime",
+          "name": "Kyoto Animation",
+          "url": "https://myanimelist.net/anime/producer/2/Kyoto_Animation"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 1,
+          "type": "anime",
+          "name": "Action",
+          "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+          "mal_id": 4,
+          "type": "anime",
+          "name": "Comedy",
+          "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 57,
+          "type": "anime",
+          "name": "Gag Humor",
+          "url": "https://myanimelist.net/anime/genre/57/Gag_Humor"
+        },
+        {
+          "mal_id": 23,
+          "type": "anime",
+          "name": "School",
+          "url": "https://myanimelist.net/anime/genre/23/School"
+        }
+      ],
+      "demographics": []
+    },
+    {
+      "mal_id": 73,
+      "url": "https://myanimelist.net/anime/73/Full_Metal_Panic_The_Second_Raid",
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/11/75261.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/11/75261t.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/11/75261l.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/11/75261.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/11/75261t.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/11/75261l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": "AaDjVWWBkmg",
+        "url": "https://www.youtube.com/watch?v=AaDjVWWBkmg",
+        "embed_url": "https://www.youtube.com/embed/AaDjVWWBkmg?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": "https://img.youtube.com/vi/AaDjVWWBkmg/default.jpg",
+          "small_image_url": "https://img.youtube.com/vi/AaDjVWWBkmg/sddefault.jpg",
+          "medium_image_url": "https://img.youtube.com/vi/AaDjVWWBkmg/mqdefault.jpg",
+          "large_image_url": "https://img.youtube.com/vi/AaDjVWWBkmg/hqdefault.jpg",
+          "maximum_image_url": "https://img.youtube.com/vi/AaDjVWWBkmg/maxresdefault.jpg"
+        }
+      },
+      "title": "Full Metal Panic! The Second Raid",
+      "title_english": "Full Metal Panic! The Second Raid",
+      "title_japanese": "\u30d5\u30eb\u30e1\u30bf\u30eb \u30d1\u30cb\u30c3\u30af\uff01The Second Raid",
+      "title_synonyms": ["Full Metal Panic! TSR"],
+      "type": "TV",
+      "source": "Light novel",
+      "episodes": 13,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2005-07-14T00:00:00+00:00",
+        "to": "2005-10-20T00:00:00+00:00",
+        "prop": {
+          "from": { "day": 14, "month": 7, "year": 2005 },
+          "to": { "day": 20, "month": 10, "year": 2005 }
+        },
+        "string": "Jul 14, 2005 to Oct 20, 2005"
+      },
+      "duration": "24 min per ep",
+      "rating": "R - 17+ (violence & profanity)",
+      "score": 7.93,
+      "scored_by": 142322,
+      "rank": 664,
+      "popularity": 807,
+      "members": 247369,
+      "favorites": 1240,
+      "synopsis": "After overcoming various tumultuous events, mercenary sergeant Sousuke Sagara of Mithril and \"Whispered\" school girl Kaname Chidori return to their normal high school lives. Sousuke continues his efforts to assimilate with the civilian population and manage his mission at the same time, while Kaname attempts to support his endeavors (even though his antics often drive her up a wall). However, as their lives calm, new problems begin to appear. The appearance of an independent terrorist organization known as Amalgam and internal conflicts within Mithril threaten to wreak unity into a series of failures and betrayals. And new, powerful Arm Slave models only worsen the situation when the world's peace is at stake. As Kaname and Sousuke face their own inner battles amidst life-threatening fights, will they be able to make the right choices and change their future? [Written by MAL Rewrite]",
+      "background": "The first 4 episodes of Full Metal Panic! The Second Raid are anime original. The remaining episodes adapt novels 4 and 5 of Shoji Gatoh's light novel series Full Metal Panic!",
+      "season": "summer",
+      "year": 2005,
+      "broadcast": {
+        "day": "Thursdays",
+        "time": "00:00",
+        "timezone": "Asia/Tokyo",
+        "string": "Thursdays at 00:00 (JST)"
+      },
+      "producers": [
+        {
+          "mal_id": 33,
+          "type": "anime",
+          "name": "WOWOW",
+          "url": "https://myanimelist.net/anime/producer/33/WOWOW"
+        },
+        {
+          "mal_id": 113,
+          "type": "anime",
+          "name": "Kadokawa Shoten",
+          "url": "https://myanimelist.net/anime/producer/113/Kadokawa_Shoten"
+        },
+        {
+          "mal_id": 460,
+          "type": "anime",
+          "name": "KlockWorx",
+          "url": "https://myanimelist.net/anime/producer/460/KlockWorx"
+        },
+        {
+          "mal_id": 787,
+          "type": "anime",
+          "name": "Happinet Pictures",
+          "url": "https://myanimelist.net/anime/producer/787/Happinet_Pictures"
+        }
+      ],
+      "licensors": [
+        {
+          "mal_id": 97,
+          "type": "anime",
+          "name": "ADV Films",
+          "url": "https://myanimelist.net/anime/producer/97/ADV_Films"
+        },
+        {
+          "mal_id": 102,
+          "type": "anime",
+          "name": "Funimation",
+          "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        },
+        {
+          "mal_id": 262,
+          "type": "anime",
+          "name": "Kadokawa Pictures USA",
+          "url": "https://myanimelist.net/anime/producer/262/Kadokawa_Pictures_USA"
+        }
+      ],
+      "studios": [
+        {
+          "mal_id": 2,
+          "type": "anime",
+          "name": "Kyoto Animation",
+          "url": "https://myanimelist.net/anime/producer/2/Kyoto_Animation"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 1,
+          "type": "anime",
+          "name": "Action",
+          "url": "https://myanimelist.net/anime/genre/1/Action"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 18,
+          "type": "anime",
+          "name": "Mecha",
+          "url": "https://myanimelist.net/anime/genre/18/Mecha"
+        },
+        {
+          "mal_id": 38,
+          "type": "anime",
+          "name": "Military",
+          "url": "https://myanimelist.net/anime/genre/38/Military"
+        }
+      ],
+      "demographics": []
+    },
+    {
+      "mal_id": 74,
+      "url": "https://myanimelist.net/anime/74/Gakuen_Alice",
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/4/18118.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/4/18118t.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/4/18118l.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/4/18118.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/4/18118t.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/4/18118l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "title": "Gakuen Alice",
+      "title_english": "Gakuen Alice",
+      "title_japanese": "\u5b66\u5712\u30a2\u30ea\u30b9",
+      "title_synonyms": ["Campus Alice", "Alice Academy"],
+      "type": "TV",
+      "source": "Manga",
+      "episodes": 26,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2004-10-30T00:00:00+00:00",
+        "to": "2005-05-14T00:00:00+00:00",
+        "prop": {
+          "from": { "day": 30, "month": 10, "year": 2004 },
+          "to": { "day": 14, "month": 5, "year": 2005 }
+        },
+        "string": "Oct 30, 2004 to May 14, 2005"
+      },
+      "duration": "25 min per ep",
+      "rating": "G - All Ages",
+      "score": 7.64,
+      "scored_by": 48654,
+      "rank": 1253,
+      "popularity": 1862,
+      "members": 93067,
+      "favorites": 1344,
+      "synopsis": "Mikan Sakura is a normal 10-year-old girl. Optimistic, energetic, and overall a very sweet child, Mikan is the complete opposite of the aloof, intelligent, and somewhat cold-hearted, Hotaru Imai. Despite their glaring differences, the two girls have been best friends for a very long time. So when Hotaru suddenly transfers to Alice Academy, a prestigious school in the city, her best friend is devastated\u2014especially when she hears of the horrible rumors regarding the academy's harsh treatment of students. Beset with worry, Mikan runs away to see her best friend! Upon her arrival, Mikan learns of \"Alices,\" individuals gifted with various supernatural abilities, and that the school is an institution built by the government to train and protect them. Discovering that she has her own unique powers, Mikan enrolls in the academy, and, after a lot of trouble, finally reunites with Hotaru. Gakuen Alice is a heartwarming comedy that follows Mikan and her friends' adventures in the academy, as well as their attempt to uncover the mysteries surrounding the problematic, fire-wielding student Natsume Hyuuga. [Written by MAL Rewrite]",
+      "background": null,
+      "season": "fall",
+      "year": 2004,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": "Unknown"
+      },
+      "producers": [
+        {
+          "mal_id": 17,
+          "type": "anime",
+          "name": "Aniplex",
+          "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+        },
+        {
+          "mal_id": 161,
+          "type": "anime",
+          "name": "Sogo Vision",
+          "url": "https://myanimelist.net/anime/producer/161/Sogo_Vision"
+        }
+      ],
+      "licensors": [
+        {
+          "mal_id": 217,
+          "type": "anime",
+          "name": "Nozomi Entertainment",
+          "url": "https://myanimelist.net/anime/producer/217/Nozomi_Entertainment"
+        }
+      ],
+      "studios": [
+        {
+          "mal_id": 86,
+          "type": "anime",
+          "name": "Group TAC",
+          "url": "https://myanimelist.net/anime/producer/86/Group_TAC"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 4,
+          "type": "anime",
+          "name": "Comedy",
+          "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 64,
+          "type": "anime",
+          "name": "Love Polygon",
+          "url": "https://myanimelist.net/anime/genre/64/Love_Polygon"
+        },
+        {
+          "mal_id": 23,
+          "type": "anime",
+          "name": "School",
+          "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+          "mal_id": 31,
+          "type": "anime",
+          "name": "Super Power",
+          "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+        }
+      ],
+      "demographics": [
+        {
+          "mal_id": 25,
+          "type": "anime",
+          "name": "Shoujo",
+          "url": "https://myanimelist.net/anime/genre/25/Shoujo"
+        }
+      ]
+    },
+    {
+      "mal_id": 75,
+      "url": "https://myanimelist.net/anime/75/Soukyuu_no_Fafner__Dead_Aggressor",
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/3/50365.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/3/50365t.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/3/50365l.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/3/50365.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/3/50365t.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/3/50365l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": "Tr15k66G9cs",
+        "url": "https://www.youtube.com/watch?v=Tr15k66G9cs",
+        "embed_url": "https://www.youtube.com/embed/Tr15k66G9cs?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": "https://img.youtube.com/vi/Tr15k66G9cs/default.jpg",
+          "small_image_url": "https://img.youtube.com/vi/Tr15k66G9cs/sddefault.jpg",
+          "medium_image_url": "https://img.youtube.com/vi/Tr15k66G9cs/mqdefault.jpg",
+          "large_image_url": "https://img.youtube.com/vi/Tr15k66G9cs/hqdefault.jpg",
+          "maximum_image_url": "https://img.youtube.com/vi/Tr15k66G9cs/maxresdefault.jpg"
+        }
+      },
+      "title": "Soukyuu no Fafner: Dead Aggressor",
+      "title_english": "Fafner of the Blue Sky",
+      "title_japanese": "\u84bc\u7a79\u306e\u30d5\u30a1\u30d5\u30ca\u30fcDead Aggressor",
+      "title_synonyms": ["Fafner in the Azure: Dead Aggressor"],
+      "type": "TV",
+      "source": "Original",
+      "episodes": 25,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2004-07-05T00:00:00+00:00",
+        "to": "2004-12-27T00:00:00+00:00",
+        "prop": {
+          "from": { "day": 5, "month": 7, "year": 2004 },
+          "to": { "day": 27, "month": 12, "year": 2004 }
+        },
+        "string": "Jul 5, 2004 to Dec 27, 2004"
+      },
+      "duration": "24 min per ep",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 7.27,
+      "scored_by": 14269,
+      "rank": 2685,
+      "popularity": 2839,
+      "members": 44785,
+      "favorites": 253,
+      "synopsis": "Tatsumiyajima is the central island in the middle of a small cluster of islands, in a sleepy backwater of the Japanese isles. Not much happens there, and the island's young people go to school knowing that their lives are likely to remain peaceful and undisturbed. Or so they have been taught... but the truth is different. The fate of mankind is on the line, and Tatsumiyajima is the last line of defense against a hostile and incomprehensible enemy. At the center of it all, fighting for Humanity's continued existence, is the giant robot Fafner, the dragon that guards this final treasure of mankind. (Source: ANN)",
+      "background": null,
+      "season": "summer",
+      "year": 2004,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": "Unknown"
+      },
+      "producers": [
+        {
+          "mal_id": 717,
+          "type": "anime",
+          "name": "TV Tokyo Music",
+          "url": "https://myanimelist.net/anime/producer/717/TV_Tokyo_Music"
+        },
+        {
+          "mal_id": 1344,
+          "type": "anime",
+          "name": "King Records",
+          "url": "https://myanimelist.net/anime/producer/1344/King_Records"
+        }
+      ],
+      "licensors": [
+        {
+          "mal_id": 102,
+          "type": "anime",
+          "name": "Funimation",
+          "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        },
+        {
+          "mal_id": 1459,
+          "type": "anime",
+          "name": "Geneon Entertainment USA",
+          "url": "https://myanimelist.net/anime/producer/1459/Geneon_Entertainment_USA"
+        }
+      ],
+      "studios": [
+        {
+          "mal_id": 27,
+          "type": "anime",
+          "name": "Xebec",
+          "url": "https://myanimelist.net/anime/producer/27/Xebec"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 1,
+          "type": "anime",
+          "name": "Action",
+          "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+          "mal_id": 8,
+          "type": "anime",
+          "name": "Drama",
+          "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+          "mal_id": 24,
+          "type": "anime",
+          "name": "Sci-Fi",
+          "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 18,
+          "type": "anime",
+          "name": "Mecha",
+          "url": "https://myanimelist.net/anime/genre/18/Mecha"
+        },
+        {
+          "mal_id": 38,
+          "type": "anime",
+          "name": "Military",
+          "url": "https://myanimelist.net/anime/genre/38/Military"
+        }
+      ],
+      "demographics": []
+    },
+    {
+      "mal_id": 76,
+      "url": "https://myanimelist.net/anime/76/Mahou_Shoujo_Lyrical_Nanoha",
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/7/6770.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/7/6770t.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/7/6770l.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/7/6770.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/7/6770t.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/7/6770l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "title": "Mahou Shoujo Lyrical Nanoha",
+      "title_english": "Magical Girl Lyrical Nanoha",
+      "title_japanese": "\u9b54\u6cd5\u5c11\u5973\u30ea\u30ea\u30ab\u30eb\u306a\u306e\u306f",
+      "title_synonyms": ["Mahou Shoujo Lyrical Nanoha"],
+      "type": "TV",
+      "source": "Original",
+      "episodes": 13,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2004-10-03T00:00:00+00:00",
+        "to": "2004-12-26T00:00:00+00:00",
+        "prop": {
+          "from": { "day": 3, "month": 10, "year": 2004 },
+          "to": { "day": 26, "month": 12, "year": 2004 }
+        },
+        "string": "Oct 3, 2004 to Dec 26, 2004"
+      },
+      "duration": "25 min per ep",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 7.41,
+      "scored_by": 40056,
+      "rank": 2021,
+      "popularity": 1800,
+      "members": 97307,
+      "favorites": 1006,
+      "synopsis": "Nanoha Takamachi, an ordinary third-grader who enjoys spending time with her family and friends, rescues an injured ferret that she had dreamed about the night before. The next day, the ferret cries out to her telepathically, asking Nanoha to save him. The ferret reveals himself to be Yuuno Scrya, a mage from another world who is trying to collect the dangerous 21 Jewel Seeds that he accidentally scattered across the world. He enlists Nanoha's help, gifting her the magical wand Raising Heart, and teaches her how to become a powerful mage. Days later, after reclaiming a few of the Jewel Seeds, another mage appears: Fate Testarossa. Stronger than Nanoha, Fate refuses to divulge her reasons in trying to collect the Jewel Seeds. Nanoha senses a melancholy in her eyes, but Fate refuses to communicate. Directed by Akiyuki Shinbo, Mahou Shoujo Lyrical Nanoha is a story about the clash of emotions when goals collide. [Written by MAL Rewrite]",
+      "background": null,
+      "season": "fall",
+      "year": 2004,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": "Unknown"
+      },
+      "producers": [
+        {
+          "mal_id": 92,
+          "type": "anime",
+          "name": "Starchild Records",
+          "url": "https://myanimelist.net/anime/producer/92/Starchild_Records"
+        },
+        {
+          "mal_id": 313,
+          "type": "anime",
+          "name": "Omnibus Japan",
+          "url": "https://myanimelist.net/anime/producer/313/Omnibus_Japan"
+        }
+      ],
+      "licensors": [
+        {
+          "mal_id": 1459,
+          "type": "anime",
+          "name": "Geneon Entertainment USA",
+          "url": "https://myanimelist.net/anime/producer/1459/Geneon_Entertainment_USA"
+        }
+      ],
+      "studios": [
+        {
+          "mal_id": 35,
+          "type": "anime",
+          "name": "Seven Arcs",
+          "url": "https://myanimelist.net/anime/producer/35/Seven_Arcs"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 1,
+          "type": "anime",
+          "name": "Action",
+          "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+          "mal_id": 4,
+          "type": "anime",
+          "name": "Comedy",
+          "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+          "mal_id": 8,
+          "type": "anime",
+          "name": "Drama",
+          "url": "https://myanimelist.net/anime/genre/8/Drama"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 66,
+          "type": "anime",
+          "name": "Mahou Shoujo",
+          "url": "https://myanimelist.net/anime/genre/66/Mahou_Shoujo"
+        },
+        {
+          "mal_id": 31,
+          "type": "anime",
+          "name": "Super Power",
+          "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+        }
+      ],
+      "demographics": []
+    },
+    {
+      "mal_id": 77,
+      "url": "https://myanimelist.net/anime/77/Mahou_Shoujo_Lyrical_Nanoha_As",
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/4/6767.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/4/6767t.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/4/6767l.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/4/6767.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/4/6767t.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/4/6767l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "title": "Mahou Shoujo Lyrical Nanoha A's",
+      "title_english": "Magical Girl Lyrical Nanoha A's",
+      "title_japanese": "\u9b54\u6cd5\u5c11\u5973\u30ea\u30ea\u30ab\u30eb\u306a\u306e\u306f \u30a8\u30fc\u30b9",
+      "title_synonyms": ["Mahou Shoujo Lyrical Nanoha A's"],
+      "type": "TV",
+      "source": "Original",
+      "episodes": 13,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2005-10-02T00:00:00+00:00",
+        "to": "2005-12-25T00:00:00+00:00",
+        "prop": {
+          "from": { "day": 2, "month": 10, "year": 2005 },
+          "to": { "day": 25, "month": 12, "year": 2005 }
+        },
+        "string": "Oct 2, 2005 to Dec 25, 2005"
+      },
+      "duration": "25 min per ep",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 7.97,
+      "scored_by": 32107,
+      "rank": 609,
+      "popularity": 2397,
+      "members": 61474,
+      "favorites": 964,
+      "synopsis": "After solving the incident of the scattered Jewel Seeds, Nanoha Takamachi happily returns to her everyday life, though now with added magic practice in the morning. Exchanging video messages with Fate Testarossa and the crew of the Arthra, Nanoha eagerly awaits the chance to speak with them in person again. But while studying in her room one day, Raising Heart suddenly calls out to Nanoha and warns her of an incoming attack! The attacker is a young girl named Vita, who calls herself a Belka Knight. She proves her strength by using an intelligent device with a mysterious cartridge system to quickly overwhelm Nanoha. Luckily, the Space-Time Administration Bureau is able to step in before she is completely crushed. Vita and her fellow knights Shamal, Signum, and Zafila are on a mission to steal magical power from mages in order to complete the Book of Darkness, one of the Lost Logia. For what sinister purpose are the knights after this Book of Darkness? [Written by MAL Rewrite]",
+      "background": null,
+      "season": "fall",
+      "year": 2005,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": "Unknown"
+      },
+      "producers": [
+        {
+          "mal_id": 92,
+          "type": "anime",
+          "name": "Starchild Records",
+          "url": "https://myanimelist.net/anime/producer/92/Starchild_Records"
+        },
+        {
+          "mal_id": 313,
+          "type": "anime",
+          "name": "Omnibus Japan",
+          "url": "https://myanimelist.net/anime/producer/313/Omnibus_Japan"
+        }
+      ],
+      "licensors": [
+        {
+          "mal_id": 1459,
+          "type": "anime",
+          "name": "Geneon Entertainment USA",
+          "url": "https://myanimelist.net/anime/producer/1459/Geneon_Entertainment_USA"
+        }
+      ],
+      "studios": [
+        {
+          "mal_id": 35,
+          "type": "anime",
+          "name": "Seven Arcs",
+          "url": "https://myanimelist.net/anime/producer/35/Seven_Arcs"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 1,
+          "type": "anime",
+          "name": "Action",
+          "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+          "mal_id": 4,
+          "type": "anime",
+          "name": "Comedy",
+          "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+          "mal_id": 8,
+          "type": "anime",
+          "name": "Drama",
+          "url": "https://myanimelist.net/anime/genre/8/Drama"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 66,
+          "type": "anime",
+          "name": "Mahou Shoujo",
+          "url": "https://myanimelist.net/anime/genre/66/Mahou_Shoujo"
+        },
+        {
+          "mal_id": 31,
+          "type": "anime",
+          "name": "Super Power",
+          "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+        }
+      ],
+      "demographics": []
+    },
+    {
+      "mal_id": 79,
+      "url": "https://myanimelist.net/anime/79/Shuffle",
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/10/19622.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/10/19622t.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/10/19622l.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/10/19622.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/10/19622t.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/10/19622l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": "icC2xhab2XE",
+        "url": "https://www.youtube.com/watch?v=icC2xhab2XE",
+        "embed_url": "https://www.youtube.com/embed/icC2xhab2XE?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": "https://img.youtube.com/vi/icC2xhab2XE/default.jpg",
+          "small_image_url": "https://img.youtube.com/vi/icC2xhab2XE/sddefault.jpg",
+          "medium_image_url": "https://img.youtube.com/vi/icC2xhab2XE/mqdefault.jpg",
+          "large_image_url": "https://img.youtube.com/vi/icC2xhab2XE/hqdefault.jpg",
+          "maximum_image_url": "https://img.youtube.com/vi/icC2xhab2XE/maxresdefault.jpg"
+        }
+      },
+      "title": "Shuffle!",
+      "title_english": "Shuffle!",
+      "title_japanese": "SHUFFLE! (\u30b7\u30e3\u30c3\u30d5\u30eb!)",
+      "title_synonyms": [],
+      "type": "TV",
+      "source": "Visual novel",
+      "episodes": 24,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2005-07-08T00:00:00+00:00",
+        "to": "2006-01-06T00:00:00+00:00",
+        "prop": {
+          "from": { "day": 8, "month": 7, "year": 2005 },
+          "to": { "day": 6, "month": 1, "year": 2006 }
+        },
+        "string": "Jul 8, 2005 to Jan 6, 2006"
+      },
+      "duration": "24 min per ep",
+      "rating": "R+ - Mild Nudity",
+      "score": 7.04,
+      "scored_by": 130614,
+      "rank": 3800,
+      "popularity": 759,
+      "members": 264268,
+      "favorites": 1424,
+      "synopsis": "In present times, Gods and Demons coexist together with Humans after the door between each of these worlds had opened. Tsuchimi Rin is a normal young high school student attending Verbena Academy, spending his days living peacefully with his childhood friend Kaede. Unexpectedly, one day the King of Gods, the King of Demons and their families move into be Rin's next door neighbors. Apparently the daughter of the Gods, Sia, and the daughter of the demons, Nerine, are both deeply in love with Rin after having met him in the past. Along with his playful friendship with upperclassmen Asa and his encounter with the silent but cute Primula, Rin has much on his hands dealing with the affections of each of these girls. Based on the eroge by Navel.",
+      "background": null,
+      "season": "summer",
+      "year": 2005,
+      "broadcast": {
+        "day": "Fridays",
+        "time": "00:30",
+        "timezone": "Asia/Tokyo",
+        "string": "Fridays at 00:30 (JST)"
+      },
+      "producers": [
+        {
+          "mal_id": 27,
+          "type": "anime",
+          "name": "Xebec",
+          "url": "https://myanimelist.net/anime/producer/27/Xebec"
+        },
+        {
+          "mal_id": 104,
+          "type": "anime",
+          "name": "Lantis",
+          "url": "https://myanimelist.net/anime/producer/104/Lantis"
+        },
+        {
+          "mal_id": 647,
+          "type": "anime",
+          "name": "Memory-Tech",
+          "url": "https://myanimelist.net/anime/producer/647/Memory-Tech"
+        }
+      ],
+      "licensors": [
+        {
+          "mal_id": 102,
+          "type": "anime",
+          "name": "Funimation",
+          "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+      ],
+      "studios": [
+        {
+          "mal_id": 163,
+          "type": "anime",
+          "name": "asread.",
+          "url": "https://myanimelist.net/anime/producer/163/asread"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 4,
+          "type": "anime",
+          "name": "Comedy",
+          "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+          "mal_id": 8,
+          "type": "anime",
+          "name": "Drama",
+          "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+          "mal_id": 10,
+          "type": "anime",
+          "name": "Fantasy",
+          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+          "mal_id": 22,
+          "type": "anime",
+          "name": "Romance",
+          "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+          "mal_id": 9,
+          "type": "anime",
+          "name": "Ecchi",
+          "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 35,
+          "type": "anime",
+          "name": "Harem",
+          "url": "https://myanimelist.net/anime/genre/35/Harem"
+        },
+        {
+          "mal_id": 23,
+          "type": "anime",
+          "name": "School",
+          "url": "https://myanimelist.net/anime/genre/23/School"
+        }
+      ],
+      "demographics": [
+        {
+          "mal_id": 42,
+          "type": "anime",
+          "name": "Seinen",
+          "url": "https://myanimelist.net/anime/genre/42/Seinen"
+        }
+      ]
+    },
+    {
+      "mal_id": 80,
+      "url": "https://myanimelist.net/anime/80/Mobile_Suit_Gundam",
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/5/88524.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/5/88524t.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/5/88524l.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/5/88524.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/5/88524t.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/5/88524l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": "QeNKubtJB1A",
+        "url": "https://www.youtube.com/watch?v=QeNKubtJB1A",
+        "embed_url": "https://www.youtube.com/embed/QeNKubtJB1A?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": "https://img.youtube.com/vi/QeNKubtJB1A/default.jpg",
+          "small_image_url": "https://img.youtube.com/vi/QeNKubtJB1A/sddefault.jpg",
+          "medium_image_url": "https://img.youtube.com/vi/QeNKubtJB1A/mqdefault.jpg",
+          "large_image_url": "https://img.youtube.com/vi/QeNKubtJB1A/hqdefault.jpg",
+          "maximum_image_url": "https://img.youtube.com/vi/QeNKubtJB1A/maxresdefault.jpg"
+        }
+      },
+      "title": "Mobile Suit Gundam",
+      "title_english": "Mobile Suit Gundam",
+      "title_japanese": "\u6a5f\u52d5\u6226\u58eb\u30ac\u30f3\u30c0\u30e0",
+      "title_synonyms": [
+        "First Gundam",
+        "Mobile Suit Gundam: 0079",
+        "MSG",
+        "Kidou Senshi Gundam"
+      ],
+      "type": "TV",
+      "source": "Original",
+      "episodes": 43,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "1979-04-07T00:00:00+00:00",
+        "to": "1980-01-26T00:00:00+00:00",
+        "prop": {
+          "from": { "day": 7, "month": 4, "year": 1979 },
+          "to": { "day": 26, "month": 1, "year": 1980 }
+        },
+        "string": "Apr 7, 1979 to Jan 26, 1980"
+      },
+      "duration": "25 min per ep",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 7.76,
+      "scored_by": 52421,
+      "rank": 966,
+      "popularity": 1564,
+      "members": 116592,
+      "favorites": 1929,
+      "synopsis": "It is year 0079 of the Universal Century. Mankind has moved to space, living in colony clusters known as \"Sides.\" One of these Sides declares itself the \"Principality of Zeon\" and declares war on the Earth Federation, the governmental body currently ruling Earth. Using powerful humanoid robots known as \"mobile suits,\" Zeon quickly gains the upper hand. Nine months into the conflict, the Earth Federation has developed its own powerful mobile suit called the Gundam. When Zeon launches an attack on the colony holding the Gundam, a 15-year-old civilian named Amuro Ray suddenly finds himself thrown into a conflict that will take him all across Earth and space, pitting him against the enemy's ace pilot, Char Aznable. [Written by MAL Rewrite]",
+      "background": "Kidou Senshi Gundam was not popular when it first aired, and came close to being cancelled. The series was originally set to run for 52 episodes but was cut down to 39 by the show's sponsors, but the staff was able to negotiate an extension to end the series with 43 episodes. When Bandai bought the copyrights to build plastic models for the show's mecha things changed and the show became popular. It revolutionized the genre by portraying mecha as piloted military weaponry with real-world scientific basis instead of superheroes' giant robots. Often referred to as the 'real robot' genre, it became the norm for mecha anime in the following years after its release. The series was the first winner of the Animage Anime Grand Prix prize, in 1979 and the first half of 1980.",
+      "season": "spring",
+      "year": 1979,
+      "broadcast": {
+        "day": "Saturdays",
+        "time": "17:30",
+        "timezone": "Asia/Tokyo",
+        "string": "Saturdays at 17:30 (JST)"
+      },
+      "producers": [
+        {
+          "mal_id": 64,
+          "type": "anime",
+          "name": "Sotsu",
+          "url": "https://myanimelist.net/anime/producer/64/Sotsu"
+        },
+        {
+          "mal_id": 1366,
+          "type": "anime",
+          "name": "Nagoya Broadcasting Network",
+          "url": "https://myanimelist.net/anime/producer/1366/Nagoya_Broadcasting_Network"
+        }
+      ],
+      "licensors": [
+        {
+          "mal_id": 217,
+          "type": "anime",
+          "name": "Nozomi Entertainment",
+          "url": "https://myanimelist.net/anime/producer/217/Nozomi_Entertainment"
+        },
+        {
+          "mal_id": 233,
+          "type": "anime",
+          "name": "Bandai Entertainment",
+          "url": "https://myanimelist.net/anime/producer/233/Bandai_Entertainment"
+        }
+      ],
+      "studios": [
+        {
+          "mal_id": 14,
+          "type": "anime",
+          "name": "Sunrise",
+          "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 24,
+          "type": "anime",
+          "name": "Sci-Fi",
+          "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 18,
+          "type": "anime",
+          "name": "Mecha",
+          "url": "https://myanimelist.net/anime/genre/18/Mecha"
+        },
+        {
+          "mal_id": 38,
+          "type": "anime",
+          "name": "Military",
+          "url": "https://myanimelist.net/anime/genre/38/Military"
+        },
+        {
+          "mal_id": 29,
+          "type": "anime",
+          "name": "Space",
+          "url": "https://myanimelist.net/anime/genre/29/Space"
+        }
+      ],
+      "demographics": []
+    },
+    {
+      "mal_id": 81,
+      "url": "https://myanimelist.net/anime/81/Mobile_Suit_Gundam__The_08th_MS_Team",
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/9/75618.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/9/75618t.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/9/75618l.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/9/75618.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/9/75618t.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/9/75618l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": "HJVC_d1tMLc",
+        "url": "https://www.youtube.com/watch?v=HJVC_d1tMLc",
+        "embed_url": "https://www.youtube.com/embed/HJVC_d1tMLc?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": "https://img.youtube.com/vi/HJVC_d1tMLc/default.jpg",
+          "small_image_url": "https://img.youtube.com/vi/HJVC_d1tMLc/sddefault.jpg",
+          "medium_image_url": "https://img.youtube.com/vi/HJVC_d1tMLc/mqdefault.jpg",
+          "large_image_url": "https://img.youtube.com/vi/HJVC_d1tMLc/hqdefault.jpg",
+          "maximum_image_url": "https://img.youtube.com/vi/HJVC_d1tMLc/maxresdefault.jpg"
+        }
+      },
+      "title": "Mobile Suit Gundam: The 08th MS Team",
+      "title_english": "Mobile Suit Gundam: The 08th MS Team",
+      "title_japanese": "\u6a5f\u52d5\u6226\u58eb\u30ac\u30f3\u30c0\u30e0 \u7b2c08MS\u5c0f\u968a",
+      "title_synonyms": [
+        "Kidou Senshi Gundam: Dai 08 MS Shotai",
+        "Kidou Senshi Gundam: Dai 08 MS Shoutai"
+      ],
+      "type": "OVA",
+      "source": "Original",
+      "episodes": 12,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "1996-01-25T00:00:00+00:00",
+        "to": "1999-07-25T00:00:00+00:00",
+        "prop": {
+          "from": { "day": 25, "month": 1, "year": 1996 },
+          "to": { "day": 25, "month": 7, "year": 1999 }
+        },
+        "string": "Jan 25, 1996 to Jul 25, 1999"
+      },
+      "duration": "25 min per ep",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 8.01,
+      "scored_by": 40557,
+      "rank": 566,
+      "popularity": 2145,
+      "members": 73552,
+      "favorites": 964,
+      "synopsis": "In year 0079 of the Universal Century, the Earth Federation initiates Operation Odessa\u2014a full-scale assault to retake a major Ukrainian city from the Principality of Zeon. It is a success, and the remaining Zeon forces scatter across the globe. The Earth Federation gains the upper hand in the One Year War and deploys its ground troops around the planet to hunt down the stragglers. As part of the deployments, Ensign Shiro Amada is transferred to Southeast Asia to take command of the 08th MS Team\u2014a special squadron of RX-79[G] Gundam Ground Type pilots. In their first guerilla operation, Shiro's team is tasked with distracting the Zeon forces while Federation ground troops locate a mysterious new Zeon weapon. Everything goes according to plan until Shiro runs into Aina Sahalin, an ace Zeon pilot he met in an earlier battle, during a skirmish. Their reunion weakens his resolve to continue fighting, and now the young commander Shiro must prove his loyalty to the Federation\u2014or be branded a traitor. [Written by MAL Rewrite]",
+      "background": "After the death of Director Takeyuki Kanda on July 27, 1996, the release of the remaining six episodes was delayed. Nearly one year later in 1997, Umanosuke Iida took over the project and completed the series on July 25, 1999.",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [
+        {
+          "mal_id": 1175,
+          "type": "anime",
+          "name": "Atelier Musa",
+          "url": "https://myanimelist.net/anime/producer/1175/Atelier_Musa"
+        }
+      ],
+      "licensors": [
+        {
+          "mal_id": 233,
+          "type": "anime",
+          "name": "Bandai Entertainment",
+          "url": "https://myanimelist.net/anime/producer/233/Bandai_Entertainment"
+        }
+      ],
+      "studios": [
+        {
+          "mal_id": 14,
+          "type": "anime",
+          "name": "Sunrise",
+          "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 2,
+          "type": "anime",
+          "name": "Adventure",
+          "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+          "mal_id": 8,
+          "type": "anime",
+          "name": "Drama",
+          "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+          "mal_id": 22,
+          "type": "anime",
+          "name": "Romance",
+          "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+          "mal_id": 24,
+          "type": "anime",
+          "name": "Sci-Fi",
+          "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 18,
+          "type": "anime",
+          "name": "Mecha",
+          "url": "https://myanimelist.net/anime/genre/18/Mecha"
+        },
+        {
+          "mal_id": 38,
+          "type": "anime",
+          "name": "Military",
+          "url": "https://myanimelist.net/anime/genre/38/Military"
+        }
+      ],
+      "demographics": []
+    },
+    {
+      "mal_id": 82,
+      "url": "https://myanimelist.net/anime/82/Mobile_Suit_Gundam_0080__War_in_the_Pocket",
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1/82.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1/82t.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1/82l.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1/82.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1/82t.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1/82l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": "2dWmXQLb0qw",
+        "url": "https://www.youtube.com/watch?v=2dWmXQLb0qw",
+        "embed_url": "https://www.youtube.com/embed/2dWmXQLb0qw?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": "https://img.youtube.com/vi/2dWmXQLb0qw/default.jpg",
+          "small_image_url": "https://img.youtube.com/vi/2dWmXQLb0qw/sddefault.jpg",
+          "medium_image_url": "https://img.youtube.com/vi/2dWmXQLb0qw/mqdefault.jpg",
+          "large_image_url": "https://img.youtube.com/vi/2dWmXQLb0qw/hqdefault.jpg",
+          "maximum_image_url": "https://img.youtube.com/vi/2dWmXQLb0qw/maxresdefault.jpg"
+        }
+      },
+      "title": "Mobile Suit Gundam 0080: War in the Pocket",
+      "title_english": "Mobile Suit Gundam 0080: War in the Pocket",
+      "title_japanese": "\u6a5f\u52d5\u6226\u58eb\u30ac\u30f3\u30c0\u30e0 0080 \u30dd\u30b1\u30c3\u30c8\u306e\u4e2d\u306e\u6226\u4e89",
+      "title_synonyms": ["Kidou Senshi Gundam 0080- Pocket no Naka no Sensou"],
+      "type": "OVA",
+      "source": "Original",
+      "episodes": 6,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "1989-03-25T00:00:00+00:00",
+        "to": "1989-08-25T00:00:00+00:00",
+        "prop": {
+          "from": { "day": 25, "month": 3, "year": 1989 },
+          "to": { "day": 25, "month": 8, "year": 1989 }
+        },
+        "string": "Mar 25, 1989 to Aug 25, 1989"
+      },
+      "duration": "27 min per ep",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 7.94,
+      "scored_by": 28428,
+      "rank": 641,
+      "popularity": 2628,
+      "members": 51835,
+      "favorites": 845,
+      "synopsis": "Alfred Izuruha is a 10-year-old who lives in the neutral colony cluster of Side 6 and, like most boys his age, is obsessed with the war between the Earth Federation and the Principality of Zeon. Unbeknownst to him, Al's next-door neighbor, Christina, is the test pilot of a prototype Gundam being developed in secret by the Earth Federation in the colony. A Zeon Special Forces team is assembled and tasked with infiltrating the colony in order to either steal or destroy it. When a skirmish breaks out between the Federation and infiltrating Zeon forces, the fascinated Alfred stumbles upon a Zaku mobile suit that has been shot down, piloted by Zeon rookie Bernard \"Bernie\" Wiseman. After this encounter, the two start a mutual friendship, so Alfred can learn more about the war that interests him so much, and Bernie can acquire inside information about the colony to aid his team's mission. [Written by MAL Rewrite]",
+      "background": "Mobile Suit Gundam 0080: War in the Pocket was a project made to commemorate the 10th anniversary of the franchise. It marked the first time someone other than Yoshiyuki Tomino had directed a Gundam project, with Fumihiko Takayama acting as lead director.",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [
+        {
+          "mal_id": 23,
+          "type": "anime",
+          "name": "Bandai Visual",
+          "url": "https://myanimelist.net/anime/producer/23/Bandai_Visual"
+        }
+      ],
+      "licensors": [
+        {
+          "mal_id": 217,
+          "type": "anime",
+          "name": "Nozomi Entertainment",
+          "url": "https://myanimelist.net/anime/producer/217/Nozomi_Entertainment"
+        },
+        {
+          "mal_id": 233,
+          "type": "anime",
+          "name": "Bandai Entertainment",
+          "url": "https://myanimelist.net/anime/producer/233/Bandai_Entertainment"
+        }
+      ],
+      "studios": [
+        {
+          "mal_id": 14,
+          "type": "anime",
+          "name": "Sunrise",
+          "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 8,
+          "type": "anime",
+          "name": "Drama",
+          "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+          "mal_id": 24,
+          "type": "anime",
+          "name": "Sci-Fi",
+          "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 18,
+          "type": "anime",
+          "name": "Mecha",
+          "url": "https://myanimelist.net/anime/genre/18/Mecha"
+        },
+        {
+          "mal_id": 38,
+          "type": "anime",
+          "name": "Military",
+          "url": "https://myanimelist.net/anime/genre/38/Military"
+        },
+        {
+          "mal_id": 29,
+          "type": "anime",
+          "name": "Space",
+          "url": "https://myanimelist.net/anime/genre/29/Space"
+        }
+      ],
+      "demographics": []
+    },
+    {
+      "mal_id": 83,
+      "url": "https://myanimelist.net/anime/83/Mobile_Suit_Gundam__The_08th_MS_Team_-_Millers_Report",
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1132/100198.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1132/100198t.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1132/100198l.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1132/100198.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1132/100198t.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1132/100198l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "title": "Mobile Suit Gundam: The 08th MS Team - Miller's Report",
+      "title_english": null,
+      "title_japanese": "\u6a5f\u52d5\u6226\u58eb\u30ac\u30f3\u30c0\u30e0 \u7b2c08MS\u5c0f\u968a \u30df\u30e9\u30fc\u30ba\u30fb\u30ea\u30dd\u30fc\u30c8",
+      "title_synonyms": [
+        "Kidou Senshi Gundam: Dai 08 MS Shotai - Miller's Report"
+      ],
+      "type": "Movie",
+      "source": "Original",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "1998-08-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": { "day": 1, "month": 8, "year": 1998 },
+          "to": { "day": null, "month": null, "year": null }
+        },
+        "string": "Aug 1, 1998"
+      },
+      "duration": "52 min",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 6.77,
+      "scored_by": 6350,
+      "rank": 5026,
+      "popularity": 5138,
+      "members": 12634,
+      "favorites": 3,
+      "synopsis": "Shortly after being rescued off the Himalayas, Federation Ensign Shiro Amada is accused of espionage due to his encounter with Zeon's top-secret mobile armor. Intelligence officer Alice Miller is assigned to investigate on Shiro's whereabouts during his disappearance. Her documented findings will determine whether or not Shiro is a traitor, and what his fate will be as commander of the 08th MS Team. (Source: ANN)",
+      "background": null,
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [
+        {
+          "mal_id": 64,
+          "type": "anime",
+          "name": "Sotsu",
+          "url": "https://myanimelist.net/anime/producer/64/Sotsu"
+        },
+        {
+          "mal_id": 1175,
+          "type": "anime",
+          "name": "Atelier Musa",
+          "url": "https://myanimelist.net/anime/producer/1175/Atelier_Musa"
+        }
+      ],
+      "licensors": [
+        {
+          "mal_id": 233,
+          "type": "anime",
+          "name": "Bandai Entertainment",
+          "url": "https://myanimelist.net/anime/producer/233/Bandai_Entertainment"
+        }
+      ],
+      "studios": [
+        {
+          "mal_id": 14,
+          "type": "anime",
+          "name": "Sunrise",
+          "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 8,
+          "type": "anime",
+          "name": "Drama",
+          "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+          "mal_id": 22,
+          "type": "anime",
+          "name": "Romance",
+          "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+          "mal_id": 24,
+          "type": "anime",
+          "name": "Sci-Fi",
+          "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 18,
+          "type": "anime",
+          "name": "Mecha",
+          "url": "https://myanimelist.net/anime/genre/18/Mecha"
+        },
+        {
+          "mal_id": 38,
+          "type": "anime",
+          "name": "Military",
+          "url": "https://myanimelist.net/anime/genre/38/Military"
+        }
+      ],
+      "demographics": []
+    },
+    {
+      "mal_id": 84,
+      "url": "https://myanimelist.net/anime/84/Mobile_Suit_Gundam_0083__Stardust_Memory",
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/13/26654.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/13/26654t.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/13/26654l.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/13/26654.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/13/26654t.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/13/26654l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "title": "Mobile Suit Gundam 0083: Stardust Memory",
+      "title_english": "Mobile Suit Gundam 0083: Stardust Memory",
+      "title_japanese": "\u6a5f\u52d5\u6226\u58eb\u30ac\u30f3\u30c0\u30e00083 STARDUST MEMORY",
+      "title_synonyms": [
+        "Kidou Senshi Gundam 0083: Stardust Memory",
+        "Gundam 0083"
+      ],
+      "type": "OVA",
+      "source": "Original",
+      "episodes": 13,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "1991-05-23T00:00:00+00:00",
+        "to": "1992-09-24T00:00:00+00:00",
+        "prop": {
+          "from": { "day": 23, "month": 5, "year": 1991 },
+          "to": { "day": 24, "month": 9, "year": 1992 }
+        },
+        "string": "May 23, 1991 to Sep 24, 1992"
+      },
+      "duration": "30 min per ep",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 7.26,
+      "scored_by": 22087,
+      "rank": 2698,
+      "popularity": 3065,
+      "members": 39266,
+      "favorites": 235,
+      "synopsis": "It is the year 0083 of the Universal Century. The rebellious Principality of Zeon has been defeated in the One Year War by the Earth Federation. However, a faction of Zeon remnants led by Aguille Delaz fled from the final battle, hiding themselves away. After three long years, they attempt to rise up once more, sending Delaz's ace pilot, Anavel Gato, to infiltrate a Federation research base to steal one of two secretly developed prototype Gundams along with its deadly nuclear warhead. Threatened by the rogue Gundam suit and seeking to retain peace, the Earth Federation mobilizes the newly developed Albion carrier to recover the stolen unit. Manned by the remaining test pilots, with rookie pilot Kou Uraki piloting the remaining prototype Gundam, the Albion and her crew are determined to stop Gato, retake the stolen Gundam, and prevent the Zeon remnants from starting another war. [Written by MAL Rewrite]",
+      "background": null,
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [
+        {
+          "mal_id": 23,
+          "type": "anime",
+          "name": "Bandai Visual",
+          "url": "https://myanimelist.net/anime/producer/23/Bandai_Visual"
+        }
+      ],
+      "licensors": [
+        {
+          "mal_id": 217,
+          "type": "anime",
+          "name": "Nozomi Entertainment",
+          "url": "https://myanimelist.net/anime/producer/217/Nozomi_Entertainment"
+        },
+        {
+          "mal_id": 233,
+          "type": "anime",
+          "name": "Bandai Entertainment",
+          "url": "https://myanimelist.net/anime/producer/233/Bandai_Entertainment"
+        }
+      ],
+      "studios": [
+        {
+          "mal_id": 14,
+          "type": "anime",
+          "name": "Sunrise",
+          "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 2,
+          "type": "anime",
+          "name": "Adventure",
+          "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+          "mal_id": 8,
+          "type": "anime",
+          "name": "Drama",
+          "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+          "mal_id": 22,
+          "type": "anime",
+          "name": "Romance",
+          "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+          "mal_id": 24,
+          "type": "anime",
+          "name": "Sci-Fi",
+          "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 18,
+          "type": "anime",
+          "name": "Mecha",
+          "url": "https://myanimelist.net/anime/genre/18/Mecha"
+        },
+        {
+          "mal_id": 38,
+          "type": "anime",
+          "name": "Military",
+          "url": "https://myanimelist.net/anime/genre/38/Military"
+        },
+        {
+          "mal_id": 29,
+          "type": "anime",
+          "name": "Space",
+          "url": "https://myanimelist.net/anime/genre/29/Space"
+        }
+      ],
+      "demographics": []
+    },
+    {
+      "mal_id": 85,
+      "url": "https://myanimelist.net/anime/85/Mobile_Suit_Zeta_Gundam",
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/6/11153.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/6/11153t.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/6/11153l.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/6/11153.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/6/11153t.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/6/11153l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": "WX1sTTLIXAM",
+        "url": "https://www.youtube.com/watch?v=WX1sTTLIXAM",
+        "embed_url": "https://www.youtube.com/embed/WX1sTTLIXAM?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": "https://img.youtube.com/vi/WX1sTTLIXAM/default.jpg",
+          "small_image_url": "https://img.youtube.com/vi/WX1sTTLIXAM/sddefault.jpg",
+          "medium_image_url": "https://img.youtube.com/vi/WX1sTTLIXAM/mqdefault.jpg",
+          "large_image_url": "https://img.youtube.com/vi/WX1sTTLIXAM/hqdefault.jpg",
+          "maximum_image_url": "https://img.youtube.com/vi/WX1sTTLIXAM/maxresdefault.jpg"
+        }
+      },
+      "title": "Mobile Suit Zeta Gundam",
+      "title_english": "Mobile Suit Zeta Gundam",
+      "title_japanese": "\u6a5f\u52d5\u6226\u58eb\u0396\u30ac\u30f3\u30c0\u30e0",
+      "title_synonyms": ["Kidou Senshi Zeta Gundam", "Mobile Suit Z Gundam"],
+      "type": "TV",
+      "source": "Original",
+      "episodes": 50,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "1985-03-02T00:00:00+00:00",
+        "to": "1986-02-22T00:00:00+00:00",
+        "prop": {
+          "from": { "day": 2, "month": 3, "year": 1985 },
+          "to": { "day": 22, "month": 2, "year": 1986 }
+        },
+        "string": "Mar 2, 1985 to Feb 22, 1986"
+      },
+      "duration": "24 min per ep",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 7.89,
+      "scored_by": 32551,
+      "rank": 738,
+      "popularity": 2335,
+      "members": 64375,
+      "favorites": 1934,
+      "synopsis": "It is Universal Century 0087, and the One Year War between the Earth Federation and Principality of Zeon is over. The Earth Federation has created an elite task force, known as the Titans, who are responsible for hunting the remaining Zeon forces. However, the power-hungry Titans have shown themselves to be no better than Zeon, spurring the creation of a rebellious faction called the Anti-Earth Union Group (AEUG). 17-year-old Kamille Bidan lives in the colony Green Noa, home to a Titan base. Kamille gets in trouble after assaulting a Titan officer, an event that coincides with an attack led by former Zeon ace Char Aznable, now known as AEUG pilot Quattro Bajeena. When Kamille steals a Titan's prototype Gundam, he soon finds himself in the middle of the dangerous conflict. [Written by MAL Rewrite]",
+      "background": null,
+      "season": "spring",
+      "year": 1985,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": "Unknown"
+      },
+      "producers": [
+        {
+          "mal_id": 64,
+          "type": "anime",
+          "name": "Sotsu",
+          "url": "https://myanimelist.net/anime/producer/64/Sotsu"
+        },
+        {
+          "mal_id": 1366,
+          "type": "anime",
+          "name": "Nagoya Broadcasting Network",
+          "url": "https://myanimelist.net/anime/producer/1366/Nagoya_Broadcasting_Network"
+        }
+      ],
+      "licensors": [
+        {
+          "mal_id": 217,
+          "type": "anime",
+          "name": "Nozomi Entertainment",
+          "url": "https://myanimelist.net/anime/producer/217/Nozomi_Entertainment"
+        },
+        {
+          "mal_id": 233,
+          "type": "anime",
+          "name": "Bandai Entertainment",
+          "url": "https://myanimelist.net/anime/producer/233/Bandai_Entertainment"
+        }
+      ],
+      "studios": [
+        {
+          "mal_id": 14,
+          "type": "anime",
+          "name": "Sunrise",
+          "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 8,
+          "type": "anime",
+          "name": "Drama",
+          "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+          "mal_id": 22,
+          "type": "anime",
+          "name": "Romance",
+          "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+          "mal_id": 24,
+          "type": "anime",
+          "name": "Sci-Fi",
+          "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 18,
+          "type": "anime",
+          "name": "Mecha",
+          "url": "https://myanimelist.net/anime/genre/18/Mecha"
+        },
+        {
+          "mal_id": 38,
+          "type": "anime",
+          "name": "Military",
+          "url": "https://myanimelist.net/anime/genre/38/Military"
+        },
+        {
+          "mal_id": 29,
+          "type": "anime",
+          "name": "Space",
+          "url": "https://myanimelist.net/anime/genre/29/Space"
+        }
+      ],
+      "demographics": []
+    },
+    {
+      "mal_id": 86,
+      "url": "https://myanimelist.net/anime/86/Mobile_Suit_Gundam_ZZ",
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1848/91078.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1848/91078t.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1848/91078l.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1848/91078.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1848/91078t.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1848/91078l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "title": "Mobile Suit Gundam ZZ",
+      "title_english": "Mobile Suit Gundam ZZ",
+      "title_japanese": "\u6a5f\u52d5\u6226\u58eb\u30ac\u30f3\u30c0\u30e0ZZ",
+      "title_synonyms": ["Kidou Senshi Gundam ZZ", "Mobile Gundam Double Zeta"],
+      "type": "TV",
+      "source": "Original",
+      "episodes": 47,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "1986-03-01T00:00:00+00:00",
+        "to": "1987-01-31T00:00:00+00:00",
+        "prop": {
+          "from": { "day": 1, "month": 3, "year": 1986 },
+          "to": { "day": 31, "month": 1, "year": 1987 }
+        },
+        "string": "Mar 1, 1986 to Jan 31, 1987"
+      },
+      "duration": "24 min per ep",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 6.65,
+      "scored_by": 17897,
+      "rank": 5645,
+      "popularity": 3174,
+      "members": 36785,
+      "favorites": 134,
+      "synopsis": "In Universal Century 0088, the Anti-Earth Union Group (AEUG) has emerged victorious in its war with the Earth Federation's Titans at the cost of devastating losses. Neo-Zeon, the third faction in the war formerly known as Axis Zeon, remains as powerful as ever. Led by Newtype Haman Karn, Neo-Zeon has been implementing plans to take over both Earth and the space colonies. The AEUG flagship Argama heads to the Side 1 colony Shangri-La for repairs. Living in the colony is Judau Ashta, a 14-year-old junk dealer who is struggling to make enough money to put his younger sister through school. Upon the discovery of an escape pod containing a former Titans pilot, Judau and his friends are quickly led to the Argama in hopes of stealing a mobile suit which they can sell for a fortune. However, with the arrival of a Neo-Zeon ship seeking to defeat the Argama, Judau and his friends are dragged into to a conflict that will bring them across space and Earth. [Written by MAL Rewrite]",
+      "background": null,
+      "season": "spring",
+      "year": 1986,
+      "broadcast": {
+        "day": "Saturdays",
+        "time": "17:30",
+        "timezone": "Asia/Tokyo",
+        "string": "Saturdays at 17:30 (JST)"
+      },
+      "producers": [
+        {
+          "mal_id": 64,
+          "type": "anime",
+          "name": "Sotsu",
+          "url": "https://myanimelist.net/anime/producer/64/Sotsu"
+        },
+        {
+          "mal_id": 1366,
+          "type": "anime",
+          "name": "Nagoya Broadcasting Network",
+          "url": "https://myanimelist.net/anime/producer/1366/Nagoya_Broadcasting_Network"
+        }
+      ],
+      "licensors": [
+        {
+          "mal_id": 217,
+          "type": "anime",
+          "name": "Nozomi Entertainment",
+          "url": "https://myanimelist.net/anime/producer/217/Nozomi_Entertainment"
+        }
+      ],
+      "studios": [
+        {
+          "mal_id": 14,
+          "type": "anime",
+          "name": "Sunrise",
+          "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 4,
+          "type": "anime",
+          "name": "Comedy",
+          "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+          "mal_id": 8,
+          "type": "anime",
+          "name": "Drama",
+          "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+          "mal_id": 24,
+          "type": "anime",
+          "name": "Sci-Fi",
+          "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 18,
+          "type": "anime",
+          "name": "Mecha",
+          "url": "https://myanimelist.net/anime/genre/18/Mecha"
+        },
+        {
+          "mal_id": 38,
+          "type": "anime",
+          "name": "Military",
+          "url": "https://myanimelist.net/anime/genre/38/Military"
+        },
+        {
+          "mal_id": 29,
+          "type": "anime",
+          "name": "Space",
+          "url": "https://myanimelist.net/anime/genre/29/Space"
+        }
+      ],
+      "demographics": []
+    },
+    {
+      "mal_id": 87,
+      "url": "https://myanimelist.net/anime/87/Mobile_Suit_Gundam__Chars_Counterattack",
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1523/92371.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1523/92371t.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1523/92371l.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1523/92371.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1523/92371t.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1523/92371l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": "lqKhAd1UqOE",
+        "url": "https://www.youtube.com/watch?v=lqKhAd1UqOE",
+        "embed_url": "https://www.youtube.com/embed/lqKhAd1UqOE?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": "https://img.youtube.com/vi/lqKhAd1UqOE/default.jpg",
+          "small_image_url": "https://img.youtube.com/vi/lqKhAd1UqOE/sddefault.jpg",
+          "medium_image_url": "https://img.youtube.com/vi/lqKhAd1UqOE/mqdefault.jpg",
+          "large_image_url": "https://img.youtube.com/vi/lqKhAd1UqOE/hqdefault.jpg",
+          "maximum_image_url": "https://img.youtube.com/vi/lqKhAd1UqOE/maxresdefault.jpg"
+        }
+      },
+      "title": "Mobile Suit Gundam: Char's Counterattack",
+      "title_english": "Mobile Suit Gundam: Char's Counterattack",
+      "title_japanese": "\u6a5f\u52d5\u6226\u58eb\u30ac\u30f3\u30c0\u30e0 \u9006\u8972\u306e\u30b7\u30e3\u30a2",
+      "title_synonyms": ["Kidou Senshi Gundam: Gyakushuu no Char"],
+      "type": "Movie",
+      "source": "Novel",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "1988-03-12T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": { "day": 12, "month": 3, "year": 1988 },
+          "to": { "day": null, "month": null, "year": null }
+        },
+        "string": "Mar 12, 1988"
+      },
+      "duration": "1 hr 59 min",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 7.66,
+      "scored_by": 24954,
+      "rank": 1199,
+      "popularity": 2941,
+      "members": 42448,
+      "favorites": 362,
+      "synopsis": "The year is Universal Century 0093. Char Aznable has taken command of Neo Zeon, the rebels of outer space. He firmly believes that humankind can only achieve peace by relocating to space. Thus, he plans to crash the giant asteroid Axis into Earth and plunge the planet into an uninhabitable winter. Char also eagerly anticipates this opportunity to settle a 14-year rivalry with Amuro Ray. The two have been reluctant allies at times, but Char has never forgiven Amuro for causing the death of one of his comrades during the One Year War. Only the Earth Federation's Londo Bell Unit has the power to stop Char from fulfilling his dangerous goal. Leading the defense of Earth is veteran captain Bright Noa and Amuro Ray with the latest Nu Gundam mobile suit. In this thrilling conclusion to the original Gundam series, Londo Bell engages in a final conflict with Neo Zeon that will decide the fate of Earth and end this long-standing rivalry\u2014once and for all. [Written by MAL Rewrite]",
+      "background": null,
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [
+        {
+          "mal_id": 64,
+          "type": "anime",
+          "name": "Sotsu",
+          "url": "https://myanimelist.net/anime/producer/64/Sotsu"
+        },
+        {
+          "mal_id": 217,
+          "type": "anime",
+          "name": "Nozomi Entertainment",
+          "url": "https://myanimelist.net/anime/producer/217/Nozomi_Entertainment"
+        },
+        {
+          "mal_id": 1175,
+          "type": "anime",
+          "name": "Atelier Musa",
+          "url": "https://myanimelist.net/anime/producer/1175/Atelier_Musa"
+        }
+      ],
+      "licensors": [
+        {
+          "mal_id": 233,
+          "type": "anime",
+          "name": "Bandai Entertainment",
+          "url": "https://myanimelist.net/anime/producer/233/Bandai_Entertainment"
+        }
+      ],
+      "studios": [
+        {
+          "mal_id": 14,
+          "type": "anime",
+          "name": "Sunrise",
+          "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 8,
+          "type": "anime",
+          "name": "Drama",
+          "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+          "mal_id": 24,
+          "type": "anime",
+          "name": "Sci-Fi",
+          "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 18,
+          "type": "anime",
+          "name": "Mecha",
+          "url": "https://myanimelist.net/anime/genre/18/Mecha"
+        },
+        {
+          "mal_id": 38,
+          "type": "anime",
+          "name": "Military",
+          "url": "https://myanimelist.net/anime/genre/38/Military"
+        },
+        {
+          "mal_id": 29,
+          "type": "anime",
+          "name": "Space",
+          "url": "https://myanimelist.net/anime/genre/29/Space"
+        }
+      ],
+      "demographics": []
+    },
+    {
+      "mal_id": 88,
+      "url": "https://myanimelist.net/anime/88/Mobile_Suit_Gundam_F91",
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1637/95288.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1637/95288t.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1637/95288l.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1637/95288.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1637/95288t.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1637/95288l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": "XOjgt9N0nn8",
+        "url": "https://www.youtube.com/watch?v=XOjgt9N0nn8",
+        "embed_url": "https://www.youtube.com/embed/XOjgt9N0nn8?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": "https://img.youtube.com/vi/XOjgt9N0nn8/default.jpg",
+          "small_image_url": "https://img.youtube.com/vi/XOjgt9N0nn8/sddefault.jpg",
+          "medium_image_url": "https://img.youtube.com/vi/XOjgt9N0nn8/mqdefault.jpg",
+          "large_image_url": "https://img.youtube.com/vi/XOjgt9N0nn8/hqdefault.jpg",
+          "maximum_image_url": "https://img.youtube.com/vi/XOjgt9N0nn8/maxresdefault.jpg"
+        }
+      },
+      "title": "Mobile Suit Gundam F91",
+      "title_english": "Mobile Suit Gundam F91",
+      "title_japanese": "\u6a5f\u52d5\u6226\u58eb\u30ac\u30f3\u30c0\u30e0\uff2691",
+      "title_synonyms": ["Kidou Senshi Gundam F91"],
+      "type": "Movie",
+      "source": "Unknown",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "1991-03-16T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": { "day": 16, "month": 3, "year": 1991 },
+          "to": { "day": null, "month": null, "year": null }
+        },
+        "string": "Mar 16, 1991"
+      },
+      "duration": "2 hr",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 6.64,
+      "scored_by": 15174,
+      "rank": 5674,
+      "popularity": 3668,
+      "members": 27776,
+      "favorites": 67,
+      "synopsis": "In the year 123 of the Universal Century, skirmishes between the Federation government and the rebel group Crossbones Vanguard echo across Earth's space colonies. One of these small battles breaks in the hometown of young Seabook Arno, forcing him and his friends to flee and ensnaring them in the political turmoil that is quickly evolving into an all-out war. Seabook meets Cecily Fairchild, granddaughter of the aristocrat Meitzer Ronah, who seeks to create a new political power called \"Cosmo Babylonia.\" Using the Crossbone Vanguard as its muscle, the Ronah family schemes to restore aristocratic rule and establish an economic system that will benefit the nobility, thus devastating the quality of life for the common people of the Earth Sphere. Seabook is tasked with piloting the Gundam F91, a mobile suit created by his mother, and must choose between protecting the status Federation's status quo or cooperating with Cecily to find a better way of life for all. [Written by MAL Rewrite]",
+      "background": null,
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [
+        {
+          "mal_id": 64,
+          "type": "anime",
+          "name": "Sotsu",
+          "url": "https://myanimelist.net/anime/producer/64/Sotsu"
+        },
+        {
+          "mal_id": 109,
+          "type": "anime",
+          "name": "Shochiku",
+          "url": "https://myanimelist.net/anime/producer/109/Shochiku"
+        },
+        {
+          "mal_id": 1175,
+          "type": "anime",
+          "name": "Atelier Musa",
+          "url": "https://myanimelist.net/anime/producer/1175/Atelier_Musa"
+        },
+        {
+          "mal_id": 1366,
+          "type": "anime",
+          "name": "Nagoya Broadcasting Network",
+          "url": "https://myanimelist.net/anime/producer/1366/Nagoya_Broadcasting_Network"
+        }
+      ],
+      "licensors": [
+        {
+          "mal_id": 217,
+          "type": "anime",
+          "name": "Nozomi Entertainment",
+          "url": "https://myanimelist.net/anime/producer/217/Nozomi_Entertainment"
+        },
+        {
+          "mal_id": 233,
+          "type": "anime",
+          "name": "Bandai Entertainment",
+          "url": "https://myanimelist.net/anime/producer/233/Bandai_Entertainment"
+        }
+      ],
+      "studios": [
+        {
+          "mal_id": 14,
+          "type": "anime",
+          "name": "Sunrise",
+          "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 8,
+          "type": "anime",
+          "name": "Drama",
+          "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+          "mal_id": 24,
+          "type": "anime",
+          "name": "Sci-Fi",
+          "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 18,
+          "type": "anime",
+          "name": "Mecha",
+          "url": "https://myanimelist.net/anime/genre/18/Mecha"
+        },
+        {
+          "mal_id": 38,
+          "type": "anime",
+          "name": "Military",
+          "url": "https://myanimelist.net/anime/genre/38/Military"
+        },
+        {
+          "mal_id": 29,
+          "type": "anime",
+          "name": "Space",
+          "url": "https://myanimelist.net/anime/genre/29/Space"
+        }
+      ],
+      "demographics": []
+    },
+    {
+      "mal_id": 89,
+      "url": "https://myanimelist.net/anime/89/Mobile_Suit_Victory_Gundam",
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1913/102693.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1913/102693t.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1913/102693l.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1913/102693.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1913/102693t.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1913/102693l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "title": "Mobile Suit Victory Gundam",
+      "title_english": "Mobile Suit V Gundam",
+      "title_japanese": "\u6a5f\u52d5\u6226\u58ebV\u30ac\u30f3\u30c0\u30e0",
+      "title_synonyms": ["Kidou Senshi Victory Gundam"],
+      "type": "TV",
+      "source": "Original",
+      "episodes": 51,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "1993-04-02T00:00:00+00:00",
+        "to": "1994-03-25T00:00:00+00:00",
+        "prop": {
+          "from": { "day": 2, "month": 4, "year": 1993 },
+          "to": { "day": 25, "month": 3, "year": 1994 }
+        },
+        "string": "Apr 2, 1993 to Mar 25, 1994"
+      },
+      "duration": "24 min per ep",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 6.74,
+      "scored_by": 9470,
+      "rank": 5147,
+      "popularity": 3901,
+      "members": 24312,
+      "favorites": 109,
+      "synopsis": "In the year 153 of the Universal Century, the tyrannical Zanscare Empire has taken hostile control over Side 2, a space colony outside of Earth's orbit. Following in the footsteps of the long expired Principality of Zeon and the more recent Crossbone Vanguard, Zanscare rules over its subjects with cruelty, routinely using a large guillotine for public executions. Living in Central Europe, space immigrant \u00dcso Ewin joins the League Militaire, a militia made up of civilians frustrated with the Earth Federation's inability to combat the Zanscare Empire. \u00dcso's latent abilities as a psychic Newtype awaken and allow him to pilot the Victory Gundam, the only mobile suit capable of holding off the elite BESPA forces of the Zanscare Empire. Hoping to protect his best friend Shakti Kareen and locate his parents within the ranks of the Federation, \u00dcso fights on with the Victory, striving to bring an end to the empire's reign. [Written by MAL Rewrite]",
+      "background": null,
+      "season": "spring",
+      "year": 1993,
+      "broadcast": {
+        "day": "Fridays",
+        "time": "17:00",
+        "timezone": "Asia/Tokyo",
+        "string": "Fridays at 17:00 (JST)"
+      },
+      "producers": [
+        {
+          "mal_id": 55,
+          "type": "anime",
+          "name": "TV Asahi",
+          "url": "https://myanimelist.net/anime/producer/55/TV_Asahi"
+        },
+        {
+          "mal_id": 64,
+          "type": "anime",
+          "name": "Sotsu",
+          "url": "https://myanimelist.net/anime/producer/64/Sotsu"
+        },
+        {
+          "mal_id": 747,
+          "type": "anime",
+          "name": "Apollon",
+          "url": "https://myanimelist.net/anime/producer/747/Apollon"
+        }
+      ],
+      "licensors": [
+        {
+          "mal_id": 217,
+          "type": "anime",
+          "name": "Nozomi Entertainment",
+          "url": "https://myanimelist.net/anime/producer/217/Nozomi_Entertainment"
+        }
+      ],
+      "studios": [
+        {
+          "mal_id": 14,
+          "type": "anime",
+          "name": "Sunrise",
+          "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 8,
+          "type": "anime",
+          "name": "Drama",
+          "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+          "mal_id": 24,
+          "type": "anime",
+          "name": "Sci-Fi",
+          "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 18,
+          "type": "anime",
+          "name": "Mecha",
+          "url": "https://myanimelist.net/anime/genre/18/Mecha"
+        },
+        {
+          "mal_id": 38,
+          "type": "anime",
+          "name": "Military",
+          "url": "https://myanimelist.net/anime/genre/38/Military"
+        },
+        {
+          "mal_id": 29,
+          "type": "anime",
+          "name": "Space",
+          "url": "https://myanimelist.net/anime/genre/29/Space"
+        }
+      ],
+      "demographics": []
+    },
+    {
+      "mal_id": 90,
+      "url": "https://myanimelist.net/anime/90/Mobile_Suit_Gundam_Wing",
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1884/114414.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1884/114414t.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1884/114414l.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1884/114414.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1884/114414t.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1884/114414l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": "ImR8f701y_Q",
+        "url": "https://www.youtube.com/watch?v=ImR8f701y_Q",
+        "embed_url": "https://www.youtube.com/embed/ImR8f701y_Q?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": "https://img.youtube.com/vi/ImR8f701y_Q/default.jpg",
+          "small_image_url": "https://img.youtube.com/vi/ImR8f701y_Q/sddefault.jpg",
+          "medium_image_url": "https://img.youtube.com/vi/ImR8f701y_Q/mqdefault.jpg",
+          "large_image_url": "https://img.youtube.com/vi/ImR8f701y_Q/hqdefault.jpg",
+          "maximum_image_url": "https://img.youtube.com/vi/ImR8f701y_Q/maxresdefault.jpg"
+        }
+      },
+      "title": "Mobile Suit Gundam Wing",
+      "title_english": "Mobile Suit Gundam Wing",
+      "title_japanese": "\u65b0\u6a5f\u52d5\u6226\u8a18\u30ac\u30f3\u30c0\u30e0W",
+      "title_synonyms": [
+        "New Mobile Report Gundam Wing",
+        "Shin Kidou Senki Gundam Wing"
+      ],
+      "type": "TV",
+      "source": "Original",
+      "episodes": 49,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "1995-04-07T00:00:00+00:00",
+        "to": "1996-03-29T00:00:00+00:00",
+        "prop": {
+          "from": { "day": 7, "month": 4, "year": 1995 },
+          "to": { "day": 29, "month": 3, "year": 1996 }
+        },
+        "string": "Apr 7, 1995 to Mar 29, 1996"
+      },
+      "duration": "24 min per ep",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 7.7,
+      "scored_by": 84481,
+      "rank": 1108,
+      "popularity": 1307,
+      "members": 148810,
+      "favorites": 2260,
+      "synopsis": "The United Earth Sphere Alliance is a powerful military organization that has ruled over Earth and space colonies with an iron fist for several decades. When the colonies proclaimed their opposition to this, their leader was assassinated. Now, in the year After Colony 195, bitter colonial rebels have launched \"Operation Meteor,\" sending five powerful mobile suits to Earth for vengeance. Built out of virtually indestructible material called Gundanium Alloy, these \"Gundams\" begin an assault against the Alliance and its sub organization OZ. One Gundam, whose pilot has taken the name of the slain colony leader Heero Yuy, is forced to make a crash landing into the ocean after an atmospheric battle against OZ's ace pilot Zechs Marquise. Upon coming ashore, he is found by Relena Peacecraft, daughter of a peace-seeking politician, who witnesses Heero's descent to Earth. Although neither of them realize it yet, this encounter will have a profound impact on both their lives, as well as those on Earth and in space colonies. [Written by MAL Rewrite]",
+      "background": null,
+      "season": "spring",
+      "year": 1995,
+      "broadcast": {
+        "day": "Fridays",
+        "time": "17:00",
+        "timezone": "Asia/Tokyo",
+        "string": "Fridays at 17:00 (JST)"
+      },
+      "producers": [
+        {
+          "mal_id": 55,
+          "type": "anime",
+          "name": "TV Asahi",
+          "url": "https://myanimelist.net/anime/producer/55/TV_Asahi"
+        }
+      ],
+      "licensors": [
+        {
+          "mal_id": 233,
+          "type": "anime",
+          "name": "Bandai Entertainment",
+          "url": "https://myanimelist.net/anime/producer/233/Bandai_Entertainment"
+        }
+      ],
+      "studios": [
+        {
+          "mal_id": 14,
+          "type": "anime",
+          "name": "Sunrise",
+          "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 1,
+          "type": "anime",
+          "name": "Action",
+          "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+          "mal_id": 8,
+          "type": "anime",
+          "name": "Drama",
+          "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+          "mal_id": 24,
+          "type": "anime",
+          "name": "Sci-Fi",
+          "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 18,
+          "type": "anime",
+          "name": "Mecha",
+          "url": "https://myanimelist.net/anime/genre/18/Mecha"
+        },
+        {
+          "mal_id": 38,
+          "type": "anime",
+          "name": "Military",
+          "url": "https://myanimelist.net/anime/genre/38/Military"
+        },
+        {
+          "mal_id": 29,
+          "type": "anime",
+          "name": "Space",
+          "url": "https://myanimelist.net/anime/genre/29/Space"
+        }
+      ],
+      "demographics": []
+    },
+    {
+      "mal_id": 91,
+      "url": "https://myanimelist.net/anime/91/Mobile_Suit_Gundam_Wing__Endless_Waltz",
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1061/97444.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1061/97444t.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1061/97444l.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1061/97444.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1061/97444t.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1061/97444l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": "hAuoznPuS04",
+        "url": "https://www.youtube.com/watch?v=hAuoznPuS04",
+        "embed_url": "https://www.youtube.com/embed/hAuoznPuS04?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": "https://img.youtube.com/vi/hAuoznPuS04/default.jpg",
+          "small_image_url": "https://img.youtube.com/vi/hAuoznPuS04/sddefault.jpg",
+          "medium_image_url": "https://img.youtube.com/vi/hAuoznPuS04/mqdefault.jpg",
+          "large_image_url": "https://img.youtube.com/vi/hAuoznPuS04/hqdefault.jpg",
+          "maximum_image_url": "https://img.youtube.com/vi/hAuoznPuS04/maxresdefault.jpg"
+        }
+      },
+      "title": "Mobile Suit Gundam Wing: Endless Waltz",
+      "title_english": "Mobile Suit Gundam Wing: Endless Waltz",
+      "title_japanese": "\u65b0\u6a5f\u52d5\u6226\u8a18\u30ac\u30f3\u30c0\u30e0W \u30a8\u30f3\u30c9\u30ec\u30b9\u30fb\u30ef\u30eb\u30c4",
+      "title_synonyms": [
+        "Shin Kidou Senki Gundam Wing Endless Waltz",
+        "Gundam Wing Endless Waltz OVA"
+      ],
+      "type": "OVA",
+      "source": "Original",
+      "episodes": 3,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "1997-01-25T00:00:00+00:00",
+        "to": "1997-07-25T00:00:00+00:00",
+        "prop": {
+          "from": { "day": 25, "month": 1, "year": 1997 },
+          "to": { "day": 25, "month": 7, "year": 1997 }
+        },
+        "string": "Jan 25, 1997 to Jul 25, 1997"
+      },
+      "duration": "30 min per ep",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 7.75,
+      "scored_by": 26298,
+      "rank": 1003,
+      "popularity": 2818,
+      "members": 45456,
+      "favorites": 172,
+      "synopsis": "In the year After Colony 196, one year after the conclusion of the intergalactic civil war, a state of stasis prevails over the Earth and its colonies. Seeing no further use for their Gundam mobile suits, war heroes Duo Maxwell, Heero Yuy, Trowa Barton, and Quatre Raberba Winner decide to destroy these weapons by launching them into the sun's surface. Before the Gundam reach their destination, the universal peace is shattered by the emergence of Mariemaia Khushrenada\u2014the only child of the former tyrannical aristocrat Treize. Mariemaia abducts diplomat Relena Peacecraft and announces plans to launch \"Operation Meteor,\" with the intention of posthumously fulfilling Treize's world domination plot. With the help of former enemy Zechs Marquise and his mobile suit Tallgeese, the heroic pilots must reacquire their mobile suits to wage one final battle against the Khushrenada dynasty, including fighting against their former ally Wufei Chang, now aligning himself with Mariemaia's ambitions. [Written by MAL Rewrite]",
+      "background": null,
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [
+        {
+          "mal_id": 23,
+          "type": "anime",
+          "name": "Bandai Visual",
+          "url": "https://myanimelist.net/anime/producer/23/Bandai_Visual"
+        },
+        {
+          "mal_id": 64,
+          "type": "anime",
+          "name": "Sotsu",
+          "url": "https://myanimelist.net/anime/producer/64/Sotsu"
+        }
+      ],
+      "licensors": [
+        {
+          "mal_id": 233,
+          "type": "anime",
+          "name": "Bandai Entertainment",
+          "url": "https://myanimelist.net/anime/producer/233/Bandai_Entertainment"
+        }
+      ],
+      "studios": [
+        {
+          "mal_id": 14,
+          "type": "anime",
+          "name": "Sunrise",
+          "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 1,
+          "type": "anime",
+          "name": "Action",
+          "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+          "mal_id": 8,
+          "type": "anime",
+          "name": "Drama",
+          "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+          "mal_id": 24,
+          "type": "anime",
+          "name": "Sci-Fi",
+          "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 18,
+          "type": "anime",
+          "name": "Mecha",
+          "url": "https://myanimelist.net/anime/genre/18/Mecha"
+        },
+        {
+          "mal_id": 38,
+          "type": "anime",
+          "name": "Military",
+          "url": "https://myanimelist.net/anime/genre/38/Military"
+        },
+        {
+          "mal_id": 29,
+          "type": "anime",
+          "name": "Space",
+          "url": "https://myanimelist.net/anime/genre/29/Space"
+        }
+      ],
+      "demographics": []
+    },
+    {
+      "mal_id": 92,
+      "url": "https://myanimelist.net/anime/92/After_War_Gundam_X",
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/10/16054.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/10/16054t.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/10/16054l.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/10/16054.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/10/16054t.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/10/16054l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": "e_hgiBaLohk",
+        "url": "https://www.youtube.com/watch?v=e_hgiBaLohk",
+        "embed_url": "https://www.youtube.com/embed/e_hgiBaLohk?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": "https://img.youtube.com/vi/e_hgiBaLohk/default.jpg",
+          "small_image_url": "https://img.youtube.com/vi/e_hgiBaLohk/sddefault.jpg",
+          "medium_image_url": "https://img.youtube.com/vi/e_hgiBaLohk/mqdefault.jpg",
+          "large_image_url": "https://img.youtube.com/vi/e_hgiBaLohk/hqdefault.jpg",
+          "maximum_image_url": "https://img.youtube.com/vi/e_hgiBaLohk/maxresdefault.jpg"
+        }
+      },
+      "title": "After War Gundam X",
+      "title_english": "After War Gundam X",
+      "title_japanese": "\u6a5f\u52d5\u65b0\u4e16\u7d00\u30ac\u30f3\u30c0\u30e0X",
+      "title_synonyms": [
+        "Mobile New Century Gundam X",
+        "Kidou Shinseiki Gundam X"
+      ],
+      "type": "TV",
+      "source": "Original",
+      "episodes": 39,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "1996-04-05T00:00:00+00:00",
+        "to": "1996-12-28T00:00:00+00:00",
+        "prop": {
+          "from": { "day": 5, "month": 4, "year": 1996 },
+          "to": { "day": 28, "month": 12, "year": 1996 }
+        },
+        "string": "Apr 5, 1996 to Dec 28, 1996"
+      },
+      "duration": "24 min per ep",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 7.33,
+      "scored_by": 14505,
+      "rank": 2330,
+      "popularity": 3374,
+      "members": 32751,
+      "favorites": 181,
+      "synopsis": "When one space colony declared its independence from the Earth Federation, the devastating 7th Space War, an all-out war between Earth and space, resulted. The Federation responded to the Space Revolutionary Army with mobile suits, called Gundams. However, the Space Revolutionary forces played their trump card and dropped hundreds of space colonies onto the Earth, plunging the planet into a seven-year-long nuclear winter. The Federation collapsed, but the Space Revolutionary Army was unable to invade the Earth in the aftermath of the colony drop. Fifteen years have passed. The year is now After War 0015, and a New Federation has sprung up on Earth to restore order. In space, the colonial leaders have been rebuilding their own forces as well. By chance, fifteen-year-old Garrod Ran has discovered an old Federation mobile suit, the Gundam X, and now he uses it to help out the Vulture ship Freeden in its struggle to keep the powers that be from repeating the mistakes of the past.",
+      "background": null,
+      "season": "spring",
+      "year": 1996,
+      "broadcast": {
+        "day": "Fridays",
+        "time": "17:00",
+        "timezone": "Asia/Tokyo",
+        "string": "Fridays at 17:00 (JST)"
+      },
+      "producers": [
+        {
+          "mal_id": 55,
+          "type": "anime",
+          "name": "TV Asahi",
+          "url": "https://myanimelist.net/anime/producer/55/TV_Asahi"
+        },
+        {
+          "mal_id": 64,
+          "type": "anime",
+          "name": "Sotsu",
+          "url": "https://myanimelist.net/anime/producer/64/Sotsu"
+        }
+      ],
+      "licensors": [
+        {
+          "mal_id": 217,
+          "type": "anime",
+          "name": "Nozomi Entertainment",
+          "url": "https://myanimelist.net/anime/producer/217/Nozomi_Entertainment"
+        }
+      ],
+      "studios": [
+        {
+          "mal_id": 14,
+          "type": "anime",
+          "name": "Sunrise",
+          "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 2,
+          "type": "anime",
+          "name": "Adventure",
+          "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+          "mal_id": 8,
+          "type": "anime",
+          "name": "Drama",
+          "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+          "mal_id": 24,
+          "type": "anime",
+          "name": "Sci-Fi",
+          "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 18,
+          "type": "anime",
+          "name": "Mecha",
+          "url": "https://myanimelist.net/anime/genre/18/Mecha"
+        },
+        {
+          "mal_id": 29,
+          "type": "anime",
+          "name": "Space",
+          "url": "https://myanimelist.net/anime/genre/29/Space"
+        }
+      ],
+      "demographics": []
+    },
+    {
+      "mal_id": 93,
+      "url": "https://myanimelist.net/anime/93/Mobile_Suit_Gundam_SEED",
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1792/91081.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1792/91081t.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1792/91081l.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1792/91081.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1792/91081t.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1792/91081l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": "xuveD0juESE",
+        "url": "https://www.youtube.com/watch?v=xuveD0juESE",
+        "embed_url": "https://www.youtube.com/embed/xuveD0juESE?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": "https://img.youtube.com/vi/xuveD0juESE/default.jpg",
+          "small_image_url": "https://img.youtube.com/vi/xuveD0juESE/sddefault.jpg",
+          "medium_image_url": "https://img.youtube.com/vi/xuveD0juESE/mqdefault.jpg",
+          "large_image_url": "https://img.youtube.com/vi/xuveD0juESE/hqdefault.jpg",
+          "maximum_image_url": "https://img.youtube.com/vi/xuveD0juESE/maxresdefault.jpg"
+        }
+      },
+      "title": "Mobile Suit Gundam SEED",
+      "title_english": "Mobile Suit Gundam SEED",
+      "title_japanese": "\u6a5f\u52d5\u6226\u58eb\u30ac\u30f3\u30c0\u30e0SEED",
+      "title_synonyms": ["Kidou Senshi Gundam SEED"],
+      "type": "TV",
+      "source": "Original",
+      "episodes": 50,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2002-10-05T00:00:00+00:00",
+        "to": "2003-09-27T00:00:00+00:00",
+        "prop": {
+          "from": { "day": 5, "month": 10, "year": 2002 },
+          "to": { "day": 27, "month": 9, "year": 2003 }
+        },
+        "string": "Oct 5, 2002 to Sep 27, 2003"
+      },
+      "duration": "24 min per ep",
+      "rating": "R - 17+ (violence & profanity)",
+      "score": 7.76,
+      "scored_by": 89416,
+      "rank": 968,
+      "popularity": 1258,
+      "members": 156352,
+      "favorites": 3351,
+      "synopsis": "In the year Cosmic Era 0071, the space colony Heliopolis remains neutral in the great war raging across the galaxy between Coordinators, human beings whose biological traits have been altered before birth, and Naturals, unaltered people who remain on the planet Earth. The Naturals' deep hatred of the Coordinators drove the advanced beings into space, seeking shelter in man-made colonies. Kira Yamato is a Coordinator and university student on Heliopolis, when his life is thrown into disarray as ZAFT, the military organization composed of rebellious Coordinators, attacks the colony in an effort to steal a set of five state-of-the-art military mobile suits known as Gundams. While ZAFT manages to make off with four of the mobile suits, Kira take control of the final Gundam, the Strike. Surviving the battle, Kira and his college friends join the crew of the Archangel, a ship run by the Earth Alliance, and the young soldiers experience the horrors of war and the loss that comes with it. [Written by MAL Rewrite]",
+      "background": "The HD Remaster of Gundam SEED omits episodes 14 and 26 of the original, therefore having a total of 48 episodes.",
+      "season": "fall",
+      "year": 2002,
+      "broadcast": {
+        "day": "Saturdays",
+        "time": "18:00",
+        "timezone": "Asia/Tokyo",
+        "string": "Saturdays at 18:00 (JST)"
+      },
+      "producers": [
+        {
+          "mal_id": 64,
+          "type": "anime",
+          "name": "Sotsu",
+          "url": "https://myanimelist.net/anime/producer/64/Sotsu"
+        },
+        {
+          "mal_id": 142,
+          "type": "anime",
+          "name": "Asatsu DK",
+          "url": "https://myanimelist.net/anime/producer/142/Asatsu_DK"
+        },
+        {
+          "mal_id": 143,
+          "type": "anime",
+          "name": "Mainichi Broadcasting System",
+          "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
+        },
+        {
+          "mal_id": 757,
+          "type": "anime",
+          "name": "Sony Music Entertainment",
+          "url": "https://myanimelist.net/anime/producer/757/Sony_Music_Entertainment"
+        },
+        {
+          "mal_id": 1175,
+          "type": "anime",
+          "name": "Atelier Musa",
+          "url": "https://myanimelist.net/anime/producer/1175/Atelier_Musa"
+        }
+      ],
+      "licensors": [
+        {
+          "mal_id": 233,
+          "type": "anime",
+          "name": "Bandai Entertainment",
+          "url": "https://myanimelist.net/anime/producer/233/Bandai_Entertainment"
+        },
+        {
+          "mal_id": 595,
+          "type": "anime",
+          "name": "NYAV Post",
+          "url": "https://myanimelist.net/anime/producer/595/NYAV_Post"
+        }
+      ],
+      "studios": [
+        {
+          "mal_id": 14,
+          "type": "anime",
+          "name": "Sunrise",
+          "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 1,
+          "type": "anime",
+          "name": "Action",
+          "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+          "mal_id": 8,
+          "type": "anime",
+          "name": "Drama",
+          "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+          "mal_id": 22,
+          "type": "anime",
+          "name": "Romance",
+          "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+          "mal_id": 24,
+          "type": "anime",
+          "name": "Sci-Fi",
+          "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 18,
+          "type": "anime",
+          "name": "Mecha",
+          "url": "https://myanimelist.net/anime/genre/18/Mecha"
+        },
+        {
+          "mal_id": 38,
+          "type": "anime",
+          "name": "Military",
+          "url": "https://myanimelist.net/anime/genre/38/Military"
+        },
+        {
+          "mal_id": 29,
+          "type": "anime",
+          "name": "Space",
+          "url": "https://myanimelist.net/anime/genre/29/Space"
+        }
+      ],
+      "demographics": []
+    },
+    {
+      "mal_id": 94,
+      "url": "https://myanimelist.net/anime/94/Mobile_Suit_Gundam_SEED_Destiny",
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1700/91080.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1700/91080t.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1700/91080l.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1700/91080.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1700/91080t.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1700/91080l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": "XrzkWjy2UPE",
+        "url": "https://www.youtube.com/watch?v=XrzkWjy2UPE",
+        "embed_url": "https://www.youtube.com/embed/XrzkWjy2UPE?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": "https://img.youtube.com/vi/XrzkWjy2UPE/default.jpg",
+          "small_image_url": "https://img.youtube.com/vi/XrzkWjy2UPE/sddefault.jpg",
+          "medium_image_url": "https://img.youtube.com/vi/XrzkWjy2UPE/mqdefault.jpg",
+          "large_image_url": "https://img.youtube.com/vi/XrzkWjy2UPE/hqdefault.jpg",
+          "maximum_image_url": "https://img.youtube.com/vi/XrzkWjy2UPE/maxresdefault.jpg"
+        }
+      },
+      "title": "Mobile Suit Gundam SEED Destiny",
+      "title_english": null,
+      "title_japanese": "\u6a5f\u52d5\u6226\u58eb\u30ac\u30f3\u30c0\u30e0SEED DESTINY",
+      "title_synonyms": ["Kidou Senshi Gundam SEED DESTINY"],
+      "type": "TV",
+      "source": "Original",
+      "episodes": 50,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2004-10-09T00:00:00+00:00",
+        "to": "2005-10-01T00:00:00+00:00",
+        "prop": {
+          "from": { "day": 9, "month": 10, "year": 2004 },
+          "to": { "day": 1, "month": 10, "year": 2005 }
+        },
+        "string": "Oct 9, 2004 to Oct 1, 2005"
+      },
+      "duration": "24 min per ep",
+      "rating": "R - 17+ (violence & profanity)",
+      "score": 7.19,
+      "scored_by": 60836,
+      "rank": 3090,
+      "popularity": 1780,
+      "members": 99249,
+      "favorites": 1036,
+      "synopsis": "In the year Cosmic Era 0071, a wartime brawl between two mobile suits results in the destruction of a neutral country. Shinn Asuka finds his entire family killed as casualties of the violence, and swears his life toward a vengeful pursuit of the Earth's Natural forces, under the impression they were the ones responsible for his family's death. Shinn works his way up through the ZAFT military forces, eventually gaining access to the cockpit of the prototype Impulse mobile suit. Athrun Zala, a veteran of the recent war employed in the service of diplomat Cagalli Yula Athha, finds himself drawn into a new conflict between the Naturals and the Coordinators: human beings artificially enhanced before birth and hated by the Naturals for their biological advantages. As the new war rears its head and violence becomes inevitable, Athrun finds himself as a mentor to the bitter Shinn. Athrun must steer the young pilot towards a mindset of mercy before his rage and desire for vengeance consumes him. [Written by MAL Rewrite]",
+      "background": "The series won the Animage Anime Grand Prix award during 2004 and 2005. The HD Remaster of Gundam SEED DESTINY omits episode 41 of the original, but includes Final Plus (split between episodes 49 and 50), therefore still having a total of 50 episodes.",
+      "season": "fall",
+      "year": 2004,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": "Unknown"
+      },
+      "producers": [
+        {
+          "mal_id": 64,
+          "type": "anime",
+          "name": "Sotsu",
+          "url": "https://myanimelist.net/anime/producer/64/Sotsu"
+        },
+        {
+          "mal_id": 143,
+          "type": "anime",
+          "name": "Mainichi Broadcasting System",
+          "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
+        },
+        {
+          "mal_id": 757,
+          "type": "anime",
+          "name": "Sony Music Entertainment",
+          "url": "https://myanimelist.net/anime/producer/757/Sony_Music_Entertainment"
+        }
+      ],
+      "licensors": [
+        {
+          "mal_id": 233,
+          "type": "anime",
+          "name": "Bandai Entertainment",
+          "url": "https://myanimelist.net/anime/producer/233/Bandai_Entertainment"
+        },
+        {
+          "mal_id": 595,
+          "type": "anime",
+          "name": "NYAV Post",
+          "url": "https://myanimelist.net/anime/producer/595/NYAV_Post"
+        }
+      ],
+      "studios": [
+        {
+          "mal_id": 14,
+          "type": "anime",
+          "name": "Sunrise",
+          "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 1,
+          "type": "anime",
+          "name": "Action",
+          "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+          "mal_id": 8,
+          "type": "anime",
+          "name": "Drama",
+          "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+          "mal_id": 22,
+          "type": "anime",
+          "name": "Romance",
+          "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+          "mal_id": 24,
+          "type": "anime",
+          "name": "Sci-Fi",
+          "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 18,
+          "type": "anime",
+          "name": "Mecha",
+          "url": "https://myanimelist.net/anime/genre/18/Mecha"
+        },
+        {
+          "mal_id": 38,
+          "type": "anime",
+          "name": "Military",
+          "url": "https://myanimelist.net/anime/genre/38/Military"
+        },
+        {
+          "mal_id": 29,
+          "type": "anime",
+          "name": "Space",
+          "url": "https://myanimelist.net/anime/genre/29/Space"
+        }
+      ],
+      "demographics": []
+    },
+    {
+      "mal_id": 95,
+      "url": "https://myanimelist.net/anime/95/Turn_A_Gundam",
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/4/78330.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/4/78330t.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/4/78330l.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/4/78330.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/4/78330t.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/4/78330l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "title": "Turn A Gundam",
+      "title_english": "\u2200 Gundam",
+      "title_japanese": "\u2200\u30ac\u30f3\u30c0\u30e0",
+      "title_synonyms": ["Mobile Suit Gundam Turn A"],
+      "type": "TV",
+      "source": "Original",
+      "episodes": 50,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "1999-04-09T00:00:00+00:00",
+        "to": "2000-04-14T00:00:00+00:00",
+        "prop": {
+          "from": { "day": 9, "month": 4, "year": 1999 },
+          "to": { "day": 14, "month": 4, "year": 2000 }
+        },
+        "string": "Apr 9, 1999 to Apr 14, 2000"
+      },
+      "duration": "24 min per ep",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 7.72,
+      "scored_by": 14797,
+      "rank": 1066,
+      "popularity": 2952,
+      "members": 42110,
+      "favorites": 843,
+      "synopsis": "It is the Correct Century, two millennia after a devastating conflict which left the world broken. Earth is now mostly uninhabitable, and thus a remnant of humanity has resided on the Moon while the Earth and its few survivors recover. For years, the \"Moonrace,\" the people of the Moon, have continued to check if Earth is fit for resettlement. A boy named Rolan Cehack and two others are sent down to Earth for a reconnaissance mission. Rolan ends up spending a year on the planet working for the Heim Family, aristocrats living in a Victorian-like society. This family, like others of similar wealthy status, celebrates one's coming of age with a ceremony involving a giant stone statue known as the \"White Doll.\" To Rolan's surprise, the Moonrace suddenly touches down on Earth with the intent of taking it by force. During the attack, the White Doll is broken apart, revealing a mobile suit called the \"Turn A Gundam\" inside. With Rolan in its cockpit, the Turn A causes a standoff between the forces of Earth and Moon. The young pilot, along with the people of both sides, must keep the peace and avoid another all-out, catastrophic war. [Written by MAL Rewrite]",
+      "background": null,
+      "season": "spring",
+      "year": 1999,
+      "broadcast": {
+        "day": "Fridays",
+        "time": "17:00",
+        "timezone": "Asia/Tokyo",
+        "string": "Fridays at 17:00 (JST)"
+      },
+      "producers": [
+        {
+          "mal_id": 64,
+          "type": "anime",
+          "name": "Sotsu",
+          "url": "https://myanimelist.net/anime/producer/64/Sotsu"
+        },
+        {
+          "mal_id": 169,
+          "type": "anime",
+          "name": "Fuji TV",
+          "url": "https://myanimelist.net/anime/producer/169/Fuji_TV"
+        }
+      ],
+      "licensors": [
+        {
+          "mal_id": 217,
+          "type": "anime",
+          "name": "Nozomi Entertainment",
+          "url": "https://myanimelist.net/anime/producer/217/Nozomi_Entertainment"
+        }
+      ],
+      "studios": [
+        {
+          "mal_id": 14,
+          "type": "anime",
+          "name": "Sunrise",
+          "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+        },
+        {
+          "mal_id": 1260,
+          "type": "anime",
+          "name": "Nakamura Production",
+          "url": "https://myanimelist.net/anime/producer/1260/Nakamura_Production"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 1,
+          "type": "anime",
+          "name": "Action",
+          "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+          "mal_id": 2,
+          "type": "anime",
+          "name": "Adventure",
+          "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+          "mal_id": 8,
+          "type": "anime",
+          "name": "Drama",
+          "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+          "mal_id": 22,
+          "type": "anime",
+          "name": "Romance",
+          "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+          "mal_id": 24,
+          "type": "anime",
+          "name": "Sci-Fi",
+          "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 18,
+          "type": "anime",
+          "name": "Mecha",
+          "url": "https://myanimelist.net/anime/genre/18/Mecha"
+        },
+        {
+          "mal_id": 38,
+          "type": "anime",
+          "name": "Military",
+          "url": "https://myanimelist.net/anime/genre/38/Military"
+        },
+        {
+          "mal_id": 29,
+          "type": "anime",
+          "name": "Space",
+          "url": "https://myanimelist.net/anime/genre/29/Space"
+        }
+      ],
+      "demographics": []
+    }
+  ]
+}

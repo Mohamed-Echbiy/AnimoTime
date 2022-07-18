@@ -8,6 +8,9 @@ import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import Quate from "./components/Quate";
 import HomePage from "./components/HomePage/HomePage";
 import RecPromo from "./components/HomePage/RecPromo";
+import RecentReviwes from "./components/HomePage/RecentReviwes";
+import UpcoThisSes from "./components/HomePage/UpcoThisSes";
+import RandomAnime from "./components/HomePage/RandomAnime";
 // import OurRecomndation from "./components/HomePage/OurRecomndation";
 
 export default function App() {
@@ -192,7 +195,7 @@ export default function App() {
       .then((res) => res.json())
       .then((data) => setPopularEp(data.data));
   }, []);
-  const PopulareEp = populareEP.slice(0, 20).map((Ep_R) => {
+  const PopulareEp = populareEP.slice(0, 11).map((Ep_R) => {
     if (Ep_R.region_locked === true) {
       return null;
     } else {
@@ -210,6 +213,58 @@ export default function App() {
   const promo = recPromo.slice(0, 6).map((R_Promo, index) => {
     return <RecPromo key={index} R_Promo={R_Promo} />;
   });
+
+  const [reviews, setReviwes] = useState([]);
+
+  useEffect(() => {
+    fetch(`https://api.jikan.moe/v4/reviews/anime`)
+      .then((res) => res.json())
+      .then((data) => setReviwes(data.data));
+  }, []);
+
+  const Review = reviews.slice(0, 1).map((review) => {
+    return <RecentReviwes review={review} num={1} />;
+  });
+
+  const AllReview = reviews.map((review) => {
+    return <RecentReviwes review={review} num={2} />;
+  });
+
+  const [upcomingthisSeason, setUpcomingThisSeason] = useState([]);
+
+  useEffect(() => {
+    fetch(`https://api.jikan.moe/v4/seasons/upcoming`)
+      .then((res) => res.json())
+      .then((data) => setUpcomingThisSeason(data.data));
+  }, []);
+  const upcomingthisses = upcomingthisSeason.slice(0, 5).map((up) => {
+    return <UpcoThisSes up={up} />;
+  });
+  const [upnow, setUpNow] = useState([]);
+  useEffect(() => {
+    fetch(`https://api.jikan.moe/v4/seasons/now`)
+      .then((res) => res.json())
+      .then((data) => setUpNow(data.data));
+  }, []);
+  const upNow = upnow.slice(0, 5).map((up) => {
+    return <UpcoThisSes up={up} />;
+  });
+
+  // const [random, setRandom] = useState([]);
+  // const [isLoading, setIsLoading] = useState(0);
+  // function fetchIt() {
+  //   if (random) {
+  //     setIsLoading((pre) => pre + 1);
+  //   }
+  // }
+
+  // useEffect(() => {
+  //   fetch(`https://api.jikan.moe/v4/random/anime?type=TV`)
+  //     .then((res) => res.json())
+  //     .then((data) => setRandom(data.data));
+  // }, [isLoading]);
+
+  //###########################################################""
 
   return (
     <Router>
@@ -251,19 +306,38 @@ export default function App() {
                 </p>
               </ViewAll>
               {isRecentVis ? Allrecentepoiseds : null}
-              {/* <H3>Our Reacomendation</H3>
-              <div className="OurRecomndation">{Recomndation}</div> */}
               <H3>Popular Episodes</H3>
               {PopulareEp}
               <br />
               <br />
               <H4>Recent Promos</H4>
               <Div>{promo}</Div>
+              <H3>Recent Review</H3>
+              {Review}
+              <H4>Top Upcoming</H4>
+              {upcomingthisses}
+              <Dive>
+                {" "}
+                <Link to="/Upcoming">View All</Link>{" "}
+              </Dive>{" "}
+              <br />
+              <br />
+              <H3>Trending this Season</H3>
+              {upNow}
+              <Dive>
+                {" "}
+                <Link to="/Airing">View All</Link>{" "}
+              </Dive>{" "}
+              <RandomAnime />
+              {/*  */}
             </Route>
             <Route exact path="/Airing">
               <H3>Airing Anime</H3>
-
               {AnimeDataairing}
+            </Route>
+            <Route path="/Reviews">
+              <H3>Reviews : </H3>
+              {AllReview}
             </Route>
             <Route exact path="/Search">
               <H3>Search Resultes : </H3>
@@ -300,17 +374,20 @@ const H3 = styled.h3`
   margin-bottom: 30px;
   grid-column: 1 / -1;
   text-transform: uppercase;
-  text-shadow: 0px 3px 0px #b2a98f, 0px 14px 10px rgba(0, 0, 0, 0.15),
+  text-shadow: 0px 3px 0px #b2a98f4f, 0px 14px 10px rgba(0, 0, 0, 0.15),
     0px 24px 2px rgba(0, 0, 0, 0.1), 0px 34px 30px rgba(0, 0, 0, 0.1);
   padding-left: 20px;
+  color: gold;
 `;
 const H4 = styled.h3`
   margin-top: 30px;
   margin-bottom: 30px;
   grid-column: 1 / -1;
   text-transform: uppercase;
-  text-shadow: 0px 3px 0px #b2a98f, 0px 14px 10px rgba(0, 0, 0, 0.15),
+  text-shadow: 0px 3px 0px #b2a98f4f, 0px 14px 10px rgba(0, 0, 0, 0.15),
     0px 24px 2px rgba(0, 0, 0, 0.1), 0px 34px 30px rgba(0, 0, 0, 0.1);
+  padding-left: 20px;
+  color: gold;
   padding-left: 20px;
 `;
 const ViewAll = styled.div`
@@ -326,8 +403,10 @@ const ViewAll = styled.div`
     font-weight: 700;
     padding: 10px 30px;
     border-radius: 10px;
-    background-color: black;
-    color: white;
+    background-color: #2a2c31;
+    box-shadow: 0px 7px 10px 0px rgb(0 0 0 / 50%);
+
+    color: purple;
     :hover {
       background-color: #000000b3;
     }
@@ -345,3 +424,26 @@ const Div = styled.div`
     grid-template-columns: repeat(1, minmax(100px, 1fr));
   }
 `;
+const Dive = styled.div`
+  grid-column: 1 / -1;
+  display: flex;
+  justify-content: flex-end;
+  a {
+    cursor: pointer;
+    font-weight: 700;
+    padding: 10px 30px;
+    border-radius: 10px;
+    background-color: #2a2c31;
+    box-shadow: 0px 7px 10px 0px rgb(0 0 0 / 50%);
+    color: purple;
+    margin-right: 30px;
+    :hover {
+      background-color: #000000b3;
+    }
+  }
+`;
+// const Container = styled.div``;
+// const DivB = styled.div``;
+// const Divado = styled.div``;
+// const Image = styled.div``;
+// const Info = styled.div``;
