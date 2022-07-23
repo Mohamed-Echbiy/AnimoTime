@@ -24,7 +24,12 @@ export default function Card({ Anime }) {
         </ImageContainer>
         <AnimeInfo>
           <h3>
-            Title : <span>{Anime.title}</span>
+            Title :{" "}
+            <span>
+              {Anime.title.length >= 29
+                ? `${Anime.title.slice(0, 23)}...`
+                : Anime.title}
+            </span>
           </h3>
           <p>
             {" "}

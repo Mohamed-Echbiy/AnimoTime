@@ -5,9 +5,17 @@ import App from "./App";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 setTimeout(() => {
-  root.render(
-    <React.StrictMode>
-      <App />
-    </React.StrictMode>
-  );
+  fetch(`https://api.jikan.moe/v4/random/anime`)
+    .then((res) => {
+      if (res.status === 200) {
+        root.render(
+          <React.StrictMode>
+            <App />
+          </React.StrictMode>
+        );
+      }
+    })
+    .catch((err) => window.alert(" you are offline"));
 }, 3000);
+
+//

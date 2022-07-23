@@ -4,10 +4,6 @@ import AnimeData from "./AnimData.json";
 import AnimeData2 from "./Anim2Data.json";
 import AnimeData3 from "./Anim3Data.json";
 export default function RandomAnime() {
-  //   if ((random.type !== "TV") | (random.type !== "Movie")) {
-  //     fetchIt();
-  //   }
-  //   console.log(AnimeData.data);
   const Data = [...AnimeData.data, ...AnimeData2.data, ...AnimeData3.data];
   const [loading, setLoading] = useState(false);
   const [random, setRandomAnime] = useState([]);
@@ -24,6 +20,7 @@ export default function RandomAnime() {
             <Image>
               <img src={random.images.jpg.image_url} alt="" />
             </Image>
+
             <Info>
               <p>
                 Title : <span>{random.title} </span>

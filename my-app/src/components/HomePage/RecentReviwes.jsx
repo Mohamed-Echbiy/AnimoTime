@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { memo, useState } from "react";
 import styled from "styled-components";
 import { BsFillCaretDownFill } from "react-icons/bs";
 import { BsFillCaretUpFill } from "react-icons/bs";

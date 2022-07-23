@@ -223,11 +223,11 @@ export default function App() {
   }, []);
 
   const Review = reviews.slice(0, 1).map((review) => {
-    return <RecentReviwes review={review} num={1} />;
+    return <RecentReviwes review={review} num={1} key={review.mal_id} />;
   });
 
   const AllReview = reviews.map((review) => {
-    return <RecentReviwes review={review} num={2} />;
+    return <RecentReviwes review={review} num={2} key={review.mal_id} />;
   });
 
   const [upcomingthisSeason, setUpcomingThisSeason] = useState([]);
@@ -238,7 +238,7 @@ export default function App() {
       .then((data) => setUpcomingThisSeason(data.data));
   }, []);
   const upcomingthisses = upcomingthisSeason.slice(0, 5).map((up) => {
-    return <UpcoThisSes up={up} />;
+    return <UpcoThisSes up={up} key={up.mal_id} />;
   });
   const [upnow, setUpNow] = useState([]);
   useEffect(() => {
@@ -247,24 +247,13 @@ export default function App() {
       .then((data) => setUpNow(data.data));
   }, []);
   const upNow = upnow.slice(0, 5).map((up) => {
-    return <UpcoThisSes up={up} />;
+    return <UpcoThisSes up={up} key={up.mal_id} />;
   });
-
-  // const [random, setRandom] = useState([]);
-  // const [isLoading, setIsLoading] = useState(0);
-  // function fetchIt() {
-  //   if (random) {
-  //     setIsLoading((pre) => pre + 1);
-  //   }
-  // }
-
-  // useEffect(() => {
-  //   fetch(`https://api.jikan.moe/v4/random/anime?type=TV`)
-  //     .then((res) => res.json())
-  //     .then((data) => setRandom(data.data));
-  // }, [isLoading]);
-
-  //###########################################################""
+  useEffect(() => {
+    fetch(`https://api.jikan.moe/v4/schedules`)
+      .then((res) => res.json())
+      .then((data) => console.log(data));
+  }, []);
 
   return (
     <Router>
