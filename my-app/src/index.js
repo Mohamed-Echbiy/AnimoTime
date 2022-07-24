@@ -16,6 +16,6 @@ setTimeout(() => {
       }
     })
     .catch((err) => window.alert(" you are offline"));
-}, 3000);
+}, 5000);
 
 //

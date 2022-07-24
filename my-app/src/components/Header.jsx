@@ -32,9 +32,7 @@ export default function Header() {
           </Link>
         </Logo>
         <Search>
-          <Link to="/SignUp">
-            <h4>Sign Up</h4>{" "}
-          </Link>
+          <a href="#sign_Up">Sign Up</a>{" "}
           <FaBars className="BarIcon" onClick={toggelNavBar} />
         </Search>
       </div>
@@ -78,11 +76,6 @@ export default function Header() {
                 <p onClick={goTospecificwidth}>Reviews</p>
               </li>
             </Link>
-            <Link to="/Sing In" onClick={goTospecificwidth}>
-              <li onClick={goTospecificwidth}>
-                <p onClick={goTospecificwidth}>Sing In</p>
-              </li>
-            </Link>
           </ul>
         </div>
       </Navbar>
@@ -106,7 +99,9 @@ const Search = styled.div`
   justify-content: space-between;
   gap: 10px;
   align-items: center;
-  h4 {
+  a {
+    font-weight: 600;
+    color: white;
     :hover {
       color: gold;
     }

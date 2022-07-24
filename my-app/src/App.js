@@ -11,6 +11,8 @@ import RecPromo from "./components/HomePage/RecPromo";
 import RecentReviwes from "./components/HomePage/RecentReviwes";
 import UpcoThisSes from "./components/HomePage/UpcoThisSes";
 import RandomAnime from "./components/HomePage/RandomAnime";
+import Footer from "./components/Footer";
+
 // import OurRecomndation from "./components/HomePage/OurRecomndation";
 
 export default function App() {
@@ -249,113 +251,107 @@ export default function App() {
   const upNow = upnow.slice(0, 5).map((up) => {
     return <UpcoThisSes up={up} key={up.mal_id} />;
   });
-  useEffect(() => {
-    fetch(`https://api.jikan.moe/v4/schedules`)
-      .then((res) => res.json())
-      .then((data) => console.log(data));
-  }, []);
 
   return (
     <Router>
-      <>
-        <Header />
-        <Quate />
-        <ScrollToTop smooth />
-        <div className="sarchBar">
-          <input
-            placeholder="Search Anime"
-            value={search}
-            onChange={(e) => setSearch(e.target.value)}
-          />
-          <button
-            onClick={() => {
-              if (
-                (anime === undefined) |
-                (search === "") |
-                (search === undefined)
-              ) {
-              } else {
-                setCountEffect((prev) => prev + 1);
-              }
-            }}
-          >
-            <Link to="/Search">Search</Link>
-          </button>
-        </div>
-        <div className="MainContainer">
-          <Switch>
-            <Route exact path="/">
-              <H3>Recent Episodes</H3>
-              {recentepoiseds}
-              <ViewAll>
+      <Header />
+      <Quate />
+      <ScrollToTop smooth />
+      <div className="sarchBar">
+        <input
+          placeholder="Search Anime"
+          value={search}
+          onChange={(e) => setSearch(e.target.value)}
+        />
+        <button
+          onClick={() => {
+            if (
+              (anime === undefined) |
+              (search === "") |
+              (search === undefined)
+            ) {
+            } else {
+              setCountEffect((prev) => prev + 1);
+            }
+          }}
+        >
+          <Link to="/Search">Search</Link>
+        </button>
+      </div>
+      <div className="MainContainer">
+        <Switch>
+          <Route exact path="/">
+            <H3>Recent Episodes</H3>
+            {recentepoiseds}
+            <ViewAll>
+              {" "}
+              <p onClick={ToggelAllRecent}>
                 {" "}
-                <p onClick={ToggelAllRecent}>
-                  {" "}
-                  {isRecentVis ? "Hide" : "Show more"}{" "}
-                </p>
-              </ViewAll>
-              {isRecentVis ? Allrecentepoiseds : null}
-              <H3>Popular Episodes</H3>
-              {PopulareEp}
-              <br />
-              <br />
-              <H4>Recent Promos</H4>
-              <Div>{promo}</Div>
-              <H3>Recent Review</H3>
-              {Review}
-              <H4>Top Upcoming</H4>
-              {upcomingthisses}
-              <Dive>
-                {" "}
-                <Link to="/Upcoming">View All</Link>{" "}
-              </Dive>{" "}
-              <br />
-              <br />
-              <H3>Trending this Season</H3>
-              {upNow}
-              <Dive>
-                {" "}
-                <Link to="/Airing">View All</Link>{" "}
-              </Dive>{" "}
-              <RandomAnime />
-              {/*  */}
-            </Route>
-            <Route exact path="/Airing">
-              <H3>Airing Anime</H3>
-              {AnimeDataairing}
-            </Route>
-            <Route path="/Reviews">
-              <H3>Reviews : </H3>
-              {AllReview}
-            </Route>
-            <Route exact path="/Search">
-              <H3>Search Resultes : </H3>
-              {anime.map((Anime) => {
-                return <Card key={Anime.mal_id} Anime={Anime} />;
-              })}
-            </Route>
-            <Route exact path="/Top Tv series">
-              <H3>Top Tv series : </H3>
-              <>
-                {TopTvSeries}
-                {TopTvSeries2}
-              </>
-            </Route>
-            <Route exact path="/Top Movies">
-              <H3>Top Movies : </H3>
-              {topMovie}
-            </Route>
-            <Route exact path="/Upcoming">
-              <H3>Upcoming Anime :</H3>
-              {Upcoming}
-            </Route>
-            <Route exact path="/Most Popular">
-              <H3>Most Popular Anime : </H3>
-              {popularity}
-            </Route>
-          </Switch>
-        </div>
-      </>
+                {isRecentVis ? "Hide" : "Show more"}{" "}
+              </p>
+            </ViewAll>
+            {isRecentVis ? Allrecentepoiseds : null}
+            <H3>Popular Episodes</H3>
+            {PopulareEp}
+            <br />
+            <br />
+            <H4>Recent Promos</H4>
+            <Div>{promo}</Div>
+            <H3>Recent Review</H3>
+            {Review}
+            <H4>Top Upcoming</H4>
+            {upcomingthisses}
+            <Dive>
+              {" "}
+              <Link to="/Upcoming">View All</Link>{" "}
+            </Dive>{" "}
+            <br />
+            <br />
+            <H3>Trending this Season</H3>
+            {upNow}
+            <Dive>
+              {" "}
+              <Link to="/Airing">View All</Link>{" "}
+            </Dive>{" "}
+            <RandomAnime />
+            {/*  */}
+          </Route>
+          <Route exact path="/Airing">
+            <H3>Airing Anime</H3>
+            {AnimeDataairing}
+          </Route>
+          <Route exact path="/Reviews">
+            <H3>Reviews : </H3>
+            {AllReview}
+          </Route>
+          <Route exact path="/Search">
+            <H3>Search Resultes : </H3>
+            {anime.map((Anime) => {
+              return <Card key={Anime.mal_id} Anime={Anime} />;
+            })}
+          </Route>
+          <Route exact path="/Top Tv series">
+            <H3>Top Tv series : </H3>
+            <>
+              {TopTvSeries}
+              {TopTvSeries2}
+            </>
+          </Route>
+          <Route exact path="/Top Movies">
+            <H3>Top Movies : </H3>
+            {topMovie}
+          </Route>
+          <Route exact path="/Upcoming">
+            <H3>Upcoming Anime :</H3>
+            {Upcoming}
+          </Route>
+          <Route exact path="/Most Popular">
+            <H3>Most Popular Anime : </H3>
+            {popularity}
+          </Route>
+        </Switch>
+      </div>
+      <Footer />
     </Router>
   );
 }
@@ -431,8 +427,3 @@ const Dive = styled.div`
     }
   }
 `;
-// const Container = styled.div``;
-// const DivB = styled.div``;
-// const Divado = styled.div``;
-// const Image = styled.div``;
-// const Info = styled.div``;

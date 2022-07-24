@@ -74,6 +74,13 @@ const Container = styled.div`
     width: 200px;
     border-radius: 15px;
     cursor: pointer;
+    color: purple;
+    font-weight: 600;
+    transition: 0.5s ease;
+    :hover {
+      background-color: #a1a1a1;
+      transform: scale(0.9);
+    }
   }
 `;
 const DivB = styled.div`
