@@ -77,6 +77,7 @@ const Container = styled.div`
     color: purple;
     font-weight: 600;
     transition: 0.5s ease;
+    background-color: white;
     :hover {
       background-color: #a1a1a1;
       transform: scale(0.9);

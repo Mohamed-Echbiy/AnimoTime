@@ -225,6 +225,7 @@ h5 {
   font-weight: 600;
   color: purple;
   transition: 0.5s ease;
+  background-color: white;
 }
 .Qoute button:hover {
   background-color: #a1a1a1;
