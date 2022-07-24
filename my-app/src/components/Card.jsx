@@ -5,7 +5,7 @@ import "react-loading-skeleton/dist/skeleton.css";
 // // // // // // // // // // // // // // // // // // // // //
 // // // // // // // // // // // // // // // // // // // // // //
 // // // // // // // // // // // // // // // // // // // // // ///
-export default function Card({ Anime }) {
+export default function Card({ Anime, image }) {
   function LinkTo() {
     window.open(`${Anime.url}/video`);
   }
@@ -14,12 +14,21 @@ export default function Card({ Anime }) {
     <>
       <CardComponent className="CardComponent">
         <ImageContainer className="ImageContainer_CardCompo">
-          <img
-            src={Anime.image_url}
-            alt="CoverImage"
-            className="coverImage"
-            onClick={LinkTo}
-          />
+          {Anime.image_url ? (
+            <img
+              src={Anime.image_url}
+              alt="CoverImage"
+              className="coverImage"
+              onClick={LinkTo}
+            />
+          ) : (
+            <img
+              src={image}
+              alt="CoverImage"
+              className="coverImage"
+              onClick={LinkTo}
+            />
+          )}
           <p className="description">Go to MyAnimeList Page</p>
         </ImageContainer>
         <AnimeInfo>
@@ -53,20 +62,17 @@ export default function Card({ Anime }) {
           </p>
           {Anime.rated && (
             <p>
-              {" "}
               <span>Rated</span> : {Anime.rated}
             </p>
           )}
-          {Anime.rank && (
+          {/* {Anime.rank && (
             <p>
-              {" "}
               <span>Rank</span> : {Anime.rank}
             </p>
-          )}
+          )} */}
           {Anime.status && (
             <p>
-              {" "}
-              <span>Rank</span> : {Anime.status}
+              <span>Statu</span> : {Anime.status}
             </p>
           )}
         </AnimeInfo>
@@ -126,7 +132,7 @@ const AnimeInfo = styled.div`
     }
   }
   p {
-    font-size: 0.8rem;
+    font-size: 0.7rem;
     font-weight: 600;
     color: white;
     span {

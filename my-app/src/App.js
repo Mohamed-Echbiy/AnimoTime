@@ -159,19 +159,19 @@ export default function App() {
   const [countEffect, setCountEffect] = useState(0);
 
   useEffect(() => {
-    const options = {
-      method: "GET",
-      headers: {
-        "X-RapidAPI-Key": "d29fefdb6emshc22f056965ae022p17f5efjsn710a73ae2c30",
-        "X-RapidAPI-Host": "jikan1.p.rapidapi.com",
-      },
-    };
-    fetch(`https://jikan1.p.rapidapi.com/search/anime?q=${search}`, options)
+    // const options = {
+    //   method: "GET",
+    //   headers: {
+    //     "X-RapidAPI-Key": "d29fefdb6emshc22f056965ae022p17f5efjsn710a73ae2c30",
+    //     "X-RapidAPI-Host": "jikan1.p.rapidapi.com",
+    //   },
+    // };
+    fetch(`https://api.jikan.moe/v4/anime?q=${search}`)
       .then((response) => response.json())
-      .then((response) => setAnime(response.results))
+      .then((response) => setAnime(response.data))
       .catch((err) => console.error(err));
   }, [countEffect]);
-
+  console.log(anime);
   // fetching recent eposides data
 
   //
@@ -327,7 +327,13 @@ export default function App() {
           <Route exact path="/Search">
             <H3>Search Resultes : </H3>
             {anime.map((Anime) => {
-              return <Card key={Anime.mal_id} Anime={Anime} />;
+              return (
+                <Card
+                  key={Anime.mal_id}
+                  Anime={Anime}
+                  image={Anime.images.jpg.image_url}
+                />
+              );
             })}
           </Route>
           <Route exact path="/Top Tv series">
