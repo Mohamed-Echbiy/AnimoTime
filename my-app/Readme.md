@@ -12,7 +12,7 @@
 
 ---
 
-### SSome screenshots :
+### Some screenshots :
 
 ---
 
