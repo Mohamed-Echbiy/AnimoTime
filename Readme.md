@@ -8,7 +8,7 @@
 
 ---
 
-### Sumury about the site it is build using react. The website shows recent anime, airing, top series, movies and more many futures and sections depanding on many api calls from jikan. The website load one time because i used Routers to move betwwen pages (_feel free to visit the site and leave any feedback _)
+### Sumury about the site it is build using react. The website shows recent anime, airing, top series, movies and more many futures and sections also The website load one time because it is using Router to move between pages (_feel free to visit the site and leave any feedback _)
 
 ---
 
@@ -27,3 +27,9 @@
 ## ![recent review](./Readmemedia/Screenshot%20Capture%20-%202022-07-25%20-%2001-39-29.png)
 
 ![upcoming](./Readmemedia/Screenshot%20Capture%20-%202022-07-25%20-%2001-39-50.png)
+
+---
+
+### detail technologies and laiberies used :
+
+ Javascript / html / css (styled component library ) / React-icon library / api used rapidApi and jikan v4
