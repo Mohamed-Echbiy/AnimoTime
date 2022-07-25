@@ -12,7 +12,7 @@
 
 ---
 
-### Short tour video in the site :
+### Some screenshots :
 
 ---
 
