@@ -171,7 +171,6 @@ export default function App() {
       .then((response) => setAnime(response.data))
       .catch((err) => console.error(err));
   }, [countEffect]);
-  console.log(anime);
   // fetching recent eposides data
 
   //
