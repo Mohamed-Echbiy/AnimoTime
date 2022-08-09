@@ -71,11 +71,11 @@ export default function Header() {
                 <p onClick={goTospecificwidth}>Popular Animes</p>
               </li>
             </Link>
-            <Link to="/Reviews" onClick={goTospecificwidth}>
+            {/* <Link to="/Reviews" onClick={goTospecificwidth}>
               <li onClick={goTospecificwidth}>
                 <p onClick={goTospecificwidth}>Reviews</p>
               </li>
-            </Link>
+            </Link> */}
           </ul>
         </div>
       </Navbar>

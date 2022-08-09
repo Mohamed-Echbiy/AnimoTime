@@ -216,21 +216,20 @@ export default function App() {
     return <RecPromo key={index} R_Promo={R_Promo} />;
   });
 
-  const [reviews, setReviwes] = useState([]);
+  // const [reviews, setReviwes] = useState([]);
 
-  useEffect(() => {
-    fetch(`https://api.jikan.moe/v4/reviews/anime`)
-      .then((res) => res.json())
-      .then((data) => setReviwes(data.data));
-  }, []);
+  // useEffect(() => {
+  //   fetch(`https://api.jikan.moe/v4/reviews/anime`)
+  //     .then((res) => res.json())
+  //     .then((data) => setReviwes(data.data));
+  // }, []);
 
-  const Review = reviews.slice(0, 1).map((review) => {
-    return <RecentReviwes review={review} num={1} key={review.mal_id} />;
-  });
-  console.log(Review);
-  const AllReview = reviews.map((review) => {
-    return <RecentReviwes review={review} num={2} key={review.mal_id} />;
-  });
+  // const Review = reviews.slice(0, 1).map((review) => {
+  //   return <RecentReviwes review={review} num={1} key={review.mal_id} />;
+  // });
+  // const AllReview = reviews.map((review) => {
+  //   return <RecentReviwes review={review} num={2} key={review.mal_id} />;
+  // });
   const [upcomingthisSes, setUpcomingthisSes] = useState([]);
   const { isLoading } = useQuery(["upcoming"], async () => {
     const res = await fetch(`https://api.jikan.moe/v4/seasons/upcoming`);
@@ -293,8 +292,8 @@ export default function App() {
             <br />
             <H4>Recent Promos</H4>
             <Div>{promo}</Div>
-            <H3>Recent Review</H3>
-            {Review}
+            {/* <H3>Recent Review</H3>
+            {Review} */}
             <H4>Top Upcoming</H4>
             {isLoading ? (
               <p>Is loding</p>
@@ -322,10 +321,10 @@ export default function App() {
             <H3>Airing Anime</H3>
             {AnimeDataairing}
           </Route>
-          <Route exact path="/Reviews">
+          {/* <Route exact path="/Reviews">
             <H3>Reviews : </H3>
             {AllReview}
-          </Route>
+          </Route> */}
           <Route exact path="/Search">
             <H3>Search Resultes : </H3>
             {anime.map((Anime) => {
