@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from "react";
+import { useQuery } from "@tanstack/react-query";
 import { Link } from "react-router-dom";
 import styled from "styled-components";
 import Card from "./components/Card";
@@ -226,21 +227,17 @@ export default function App() {
   const Review = reviews.slice(0, 1).map((review) => {
     return <RecentReviwes review={review} num={1} key={review.mal_id} />;
   });
-
+  console.log(Review);
   const AllReview = reviews.map((review) => {
     return <RecentReviwes review={review} num={2} key={review.mal_id} />;
   });
-
-  const [upcomingthisSeason, setUpcomingThisSeason] = useState([]);
-
-  useEffect(() => {
-    fetch(`https://api.jikan.moe/v4/seasons/upcoming`)
-      .then((res) => res.json())
-      .then((data) => setUpcomingThisSeason(data.data));
-  }, []);
-  const upcomingthisses = upcomingthisSeason.slice(0, 5).map((up) => {
-    return <UpcoThisSes up={up} key={up.mal_id} />;
+  const [upcomingthisSes, setUpcomingthisSes] = useState([]);
+  const { isLoading } = useQuery(["upcoming"], async () => {
+    const res = await fetch(`https://api.jikan.moe/v4/seasons/upcoming`);
+    const data = await res.json();
+    setUpcomingthisSes(data.data);
   });
+
   const [upnow, setUpNow] = useState([]);
   useEffect(() => {
     fetch(`https://api.jikan.moe/v4/seasons/now`)
@@ -299,7 +296,13 @@ export default function App() {
             <H3>Recent Review</H3>
             {Review}
             <H4>Top Upcoming</H4>
-            {upcomingthisses}
+            {isLoading ? (
+              <p>Is loding</p>
+            ) : (
+              upcomingthisSes
+                .slice(0, 5)
+                .map((up) => <UpcoThisSes up={up} key={up.mal_id} />)
+            )}
             <Dive>
               {" "}
               <Link to="/Upcoming">View All</Link>{" "}
